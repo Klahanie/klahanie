@@ -13,7 +13,7 @@ show-title: true
   <img class="img-thumbnail col-lg-2 col-md-5 col-sm-12" src="{{site.url}}/{{doc.thumbnail}}">
     <div class="col-lg-10 col-md-7 col-sm-12">
       <h4>
-      <a href="{{doc.url}}">{{doc.title}}</a>
+      <a href="{{site.url}}{{doc.url}}">{{doc.title}}</a>
       </h4>
       <div>{{doc.description}}
       </div>

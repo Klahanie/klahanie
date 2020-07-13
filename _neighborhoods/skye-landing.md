@@ -8,4 +8,6 @@ categories: []
 thumbnail: "/images/neighborhoods/skye-landing.jpg"
 description: Skye Landing has 37 townhomes. It is located within proximity of the QFC shopping center and commercial area of Klahanie as well as it has access to the Yellow Lake trail.
 ---
+Skye Landing has 37 townhomes. It is located within proximity of the QFC shopping center and commercial area of Klahanie as well as it has access to the Yellow Lake trail.
+
 <object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/skye-landing.svg" class="img-fluid"/>

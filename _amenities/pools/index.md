@@ -7,9 +7,6 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
-</div>
-
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
 
 * [Lakeside Pool Schedule]({{site.url}}/amenities/pools/lakeside-pool.html)
