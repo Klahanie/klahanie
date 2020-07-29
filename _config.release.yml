@@ -14,12 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Klahanie Association
-email: your-email@example.com
+email: info@klahanie.com
 description: "The Klahanie Association is a home owners association on the Sammamish Plateau, situated on the south end of Sammamish, WA, near Issaquah. Klahanie has more than 3000 homes, miles of trails, and two swimming pools. This site has details for homeowners, residents, and potential buyers!"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://klahanie.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb  
-github_username:  jekyll
+url: "https://klahanie.com" # the base hostname & protocol for your site, e.g. http://example.com  
+github_username:  klahanie
+github_url: "https://github.com/klahanie/klahanie"
+branch: "master"
 paginate: 10
 
 # Build settings
@@ -34,6 +35,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-last-modified-at
   - jekyll-paginate
+  - jekyll-github-metadata
   
 # Enable or disable heading anchors
 heading_anchors: true

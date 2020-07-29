@@ -7,7 +7,7 @@ categories: []
 show-title: true
 ---
 <div class="float-right col-md-4">
-  <a href="{{site.url}}/vacation-house-check.html">Vacation House Check Form</a>
+  <a href="{{site.url}}/files/Vacation-House-Check-2018.pdf">Vacation House Check Form</a>
   <img src="{{site.url}}/images/canine-patrol.jpg" class="img-thumbnail">
   <img src="{{site.url}}/images/KNP-2.jpg" class="img-thumbnail">
   <img src="{{site.url}}/images/shoreline-vehicle-2.jpg" class="img-thumbnail">
