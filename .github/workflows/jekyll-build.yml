@@ -37,10 +37,3 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
-
-    - name: broken-link-check
-      uses: jhutchings1/link-checker@recurse
-      with:
-        ignorePatterns: 'https://klahanieassociation.frontsteps.com/'
-        url: 'https://klahanie.github.io/klahanie'
-

@@ -13,7 +13,7 @@ categories: []
 <div class="director-row row mb-4">
   <div class="col-md-4 col-sm-6">
 {% if staff.thumbnail != nil %}
-  <img class="img-thumbnail img-fluid" src="{{site.url}}/{{staff.thumbnail}}">
+  <img class="img-thumbnail img-fluid" src="{{site.url}}/{{staff.thumbnail}}" alt="{{staff.title}}">
     {% endif %}
     </div>
     <div class="col-md-8 col-sm-12">
