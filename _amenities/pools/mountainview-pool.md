@@ -14,4 +14,14 @@ show-title: true
 
 </div>
 
-Mountainview pool is located at [4280 Klahanie Dr SE, Issaquah, WA 98029](https://www.google.com/maps/place/Klahanie+Mountainview+Pool/@47.5701397,-122.0076412,16z/data=!4m5!3m4!1s0x549070209f776e83:0xa578ae1982e300f8!8m2!3d47.5682623!4d-122.0019776).
+### Location
+
+<div class="img-fluid img-thumbnail mb-4">
+  <iframe id="gmap_canvas" style="width:100%; height:350px;" src="https://maps.google.com/maps?q=mountainview%20pool%20klahanie&t=k&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</div>
+
+### Schedule
+
+<iframe class="w-100" style="height:800px;" src="{{site.url}}/images/Mountainview Schedule.pdf"></iframe>
+
+
