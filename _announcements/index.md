@@ -5,12 +5,12 @@ date: 2019-07-01 04:30
 author: Klahanie
 show-title: true
 ---
-<ul>
     {% for doc in site.announcements reversed %}
     {% if doc.url != 'index.html' %}
-        <li><a href="{{site.url}}{{ doc.url }}">{{doc.date | date: "[%B %d, %Y]" }} {{ doc.title }}</a></li>
+        <h2><a href="{{site.url}}{{ doc.url }}">{{doc.date | date: "[%B %d, %Y]" }} {{ doc.title }}</a></h2>
+        {{doc.excerpt}}
+        <p><a href="{{site.url}}{{doc.url}}">Read more</a></p>
     {% endif %}
     {% endfor %}
-</ul>
 
 
