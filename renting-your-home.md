@@ -12,7 +12,7 @@ Each owner who plans to rent their home needs to understand the steps to be take
 
 Carefully read the [Rules and Regulations]({{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf) Section 4.11 Rental Properties. You as the home owner are financially responsible for any fines your renter may incur due to not abiding by the the Rules and Regulations.
 
-Complete the [Rental Registration Form]({{site.url}}/files/Rental-Letter.pdf).This form is a requirement and alerts the KHOA staff that you have renters in the home and provides their names, contact information and a copy of the lease so that they can entered in the administrative records and passes to the two pools can be arranged for them.
+Complete the [Rental Registration Form]({{site.url}}/files/Rental Business Registration.docx).This form is a requirement and alerts the KHOA staff that you have renters in the home and provides their names, contact information and a copy of the lease so that they can entered in the administrative records and passes to the two pools can be arranged for them.
 
 If you have a Property management firm managing the home for you, please include their contact information. This allows our Compliance staff to contact them in case of compliance issues before they become subject to fines.
 
