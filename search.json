@@ -2,14 +2,14 @@
 layout: null
 ---
 [
-  {% for post in site.pages %}
+  {% assign everything = site.pages | concat: site.announcements | concat: site.neighborhoods | concat: site.clubs | concat: site.amenities | concat: site.magazine | concat: site.amenities %}
+  {% for item in everything %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "categories" : "{{ post.categories | join: ',' }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}",
-      "excerpt" : "{{ post.content | strip_html | strip_newlines | escape }}"
+      "title"    : "{{ item.title | escape }}",
+      "categories" : "{{ item.categories | join: ',' }}",
+      "tags"     : "{{ item.tags | join: ', ' }}",
+      "url"      : "{{ site.baseurl }}{{ item.url }}",
+      "date"     : "{{ item.date }}"
     }{% unless forloop.last %},
     {% endunless %}
     {% endfor %}
