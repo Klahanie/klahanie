@@ -14,7 +14,7 @@ show-title: true
 * <a href="{{site.url}}/files/Klahanie-Association-Bylaws-2018.pdf">Klahanie Bylaws</a>
 * <a href="http://klahanie.com/wp-content/uploads/2019/05/Klahanie-Articles-of-Incorp.pdf">Klahanie Articles of Incorporation</a>
 * <a href="{{site.url}}/files/klahanie-association_change-of-address_2018-ver.pdf">Change of address form</a>
-* <a href="{{site.url}}/files/Rental-Letter.pdf">Rental Application</a>
+* <a href="{{site.url}}/files/Rental Business Registration.docx">Application to rent your home</a>
 * <a href="{{site.url}}/files/Pool Rental Contract 2020.pdf">Pool rental application</a>
 * <a href="{{site.url}}/files/liability-waiver.pdf">Swim lesson liability waiver</a>
 * <a href="{{site.url}}/files/cancellation-policy.pdf">Swim lesson cancellation policy</a>

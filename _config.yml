@@ -39,7 +39,7 @@ plugins:
   - jekyll-last-modified-at
   - jekyll-paginate
   - jekyll-github-metadata
-  
+
 # Enable or disable heading anchors
 heading_anchors: true
 
