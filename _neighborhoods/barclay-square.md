@@ -12,4 +12,4 @@ description: Barclay Square is a multi-family condo development with 66 townhome
 
 Barclay Square is a multi-family condo development with 66 townhouses. It is located near the Beaver Lake Road entrance to Klahanie at 254th Ave SE.
 
-<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/barclay-square.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="/images/neighborhoods/barclay-square.svg" class="img-fluid"/>

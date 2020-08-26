@@ -11,4 +11,4 @@ description: Lake Pointe has 96 single family homes. Three sides of this subdivi
 
 Lake Pointe has 96 single family homes. Three sides of this subdivision are surrounded by a Native Growth Protection Area and a trail that leads to the Yellow Lake trail, the main office, Lakeside Park, Lakeside pool, Yellow Lake, two tennis courts, basketball courts, two play structures. Lake Pointe is also close to the Klahanie Park and Powerline walking trail.
 
-<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/lake-pointe.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="/images/neighborhoods/lake-pointe.svg" class="img-fluid"/>

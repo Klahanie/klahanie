@@ -12,10 +12,10 @@ show-title: true
 {% if doc.title != "Klahanie Magazine" %}
 
 <div class="row mb-4">
-  <img class="img-thumbnail col-md-2" src="{{site.url}}/magazine/{{doc.filename}}.jpg">
+  <img class="img-thumbnail col-md-2" src="/magazine/{{doc.filename}}.jpg">
     <div class="col-md-10">
       <h4>
-      <a href="{{site.url}}/magazine/{{doc.filename}}.pdf">{{doc.title}}</a>
+      <a href="/magazine/{{doc.filename}}.pdf">{{doc.title}}</a>
       </h4>
       <div>{{doc.description}}
       </div>

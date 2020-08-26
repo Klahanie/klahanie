@@ -26,9 +26,9 @@ video-banner: images/klahanie-intro.mp4
 
 </div>
 
-<img src="{{site.url}}/images/KHOA-Color-Map.jpg" class="img-fluid">
+<img src="/images/KHOA-Color-Map.jpg" class="img-fluid">
 
-<div class="white about-footer" data-bg="http://klahanie.com/wp-content/uploads/2019/03/gradien-kiosk2.jpg">
+<div class="white about-footer" data-bg="/images/gradien-kiosk2.jpg">
 	<div>
 		<div style="margin-top:0px;margin-bottom:0px;width:30.6666%; margin-right: 4%;">
 			<div style="padding: 0px 0px 0px 15px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
@@ -41,7 +41,7 @@ video-banner: images/klahanie-intro.mp4
 				</div>
 				<div data-animationoffset="100%" style="margin-top:0px;margin-bottom:60px;">
 					<div style="border-color:rgba(255,255,255,0);">
-						<a href="{{site.url}}/neighborhoods/" class="white">Learn More</a>
+						<a href="/neighborhoods/" class="white">Learn More</a>
 					</div>
 				</div>
 			</div>

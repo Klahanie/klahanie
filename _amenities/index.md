@@ -8,16 +8,16 @@ show-title: true
 ---
 
 ## Pools
-* [Pools]({{site.url}}/amenities/pools)
-* [Lakeside Pool]({{site.url}}/amenities/pools/lakeside-pool.html)
-* [Mountain View Pool]({{site.url}}/amenities/pools/mountainview-pool.html)
-* [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
-* [Swim lessons]({{site.url}}/amenities/pools/swim-lessons.html)
-* [COVID guidelines]({{site.url}}/amenities/pools/covid-guidelines.html)
+* [Pools](/amenities/pools)
+* [Lakeside Pool](/amenities/pools/lakeside-pool.html)
+* [Mountain View Pool](/amenities/pools/mountainview-pool.html)
+* [Pool rules](/amenities/pools/pool-rules.html)
+* [Swim lessons](/amenities/pools/swim-lessons.html)
+* [COVID guidelines](/amenities/pools/covid-guidelines.html)
 
 ## Security
-* [Klahanie Neighborhood Patrol]({{site.url}}/amenities/klahanie-neighborhood-patrol.html)
+* [Klahanie Neighborhood Patrol](/amenities/klahanie-neighborhood-patrol.html)
 
 ## Sports
-* [Tennis]({{site.url}}/amenities/tennis-information.html)
+* [Tennis](/amenities/tennis-information.html)
 

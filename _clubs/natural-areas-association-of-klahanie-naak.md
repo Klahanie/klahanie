@@ -12,7 +12,7 @@ banner: /images/naak/NAAK-cropped.jpg
 show-title: true
 ---
 NAAK is a volunteer group of Klahanie residents committed to keeping Klahanie's natural areas healthy while providing a diverse habitat that protects and preserves wildlife.
-<img src="{{site.url}}/images/naak/Logo.jpg" class="float-right">
+<img src="/images/naak/Logo.jpg" class="float-right">
 
 ### What's happening now
 
@@ -36,15 +36,15 @@ NAAK works closely with the Klahanie Association Director, recommending projects
 
 NAAK also provides overall direction to contracted services, like EarthCorps, to assist in the restoration and maintenance of our natural spaces. In addition, NAAK hosts and conducts periodic Klahanie volunteer work parties to remove noxious weeds and restore habitats from March through October. We invite you to join us in maintaining our healthy and beautiful natural areas.
 
-* [NAAK's History and Accomplishments]({{site.url}}/clubs/naak/naak-history-and-accomplishments.html)
-* [NAAK / EarthCorps Projects for 2019]({{site.url}}/clubs/naak/naak-earthcorps-projects-for-2019.html)
-* [Klahanie Trails Map]({{site.url}}/files/960yl_trails_map.pdf)
-* [Klahanie Bird Checklist]({{site.url}}/clubs/naak/Bird-Checklist.pdf)
-* [Yellow Lake Trail Guide for Commonly Found Birds]({{site.url}}/clubs/naak/yellow_lake_commonly_found_birds-2.pdf)
-* [Yellow Lake Trail Guide for Wildlife]({{site.url}}/clubs/naak/yellow_lake_trail_guide_for_wildlife-2.pdf)
-* [Yellow Lake Trail Guide for Commonly Found Native Trees]({{site.url}}/clubs/naak/yellow_lake_commonly_found_native_trees-2.pdf)
-* [Yellow Lake Trail Guide for Commonly Found Native Groundcovers and Vines]({{site.url}}/clubs/naak/yellow_lake__ground_and_vines_photos-2.pdf)
-* [Queen Bog: Site Assessment Report]({{site.url}}/clubs/naak/Queens-Bog-report.pdf)
+* [NAAK's History and Accomplishments](/clubs/naak/naak-history-and-accomplishments.html)
+* [NAAK / EarthCorps Projects for 2019](/clubs/naak/naak-earthcorps-projects-for-2019.html)
+* [Klahanie Trails Map](/files/960yl_trails_map.pdf)
+* [Klahanie Bird Checklist](/clubs/naak/Bird-Checklist.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Birds](/clubs/naak/yellow_lake_commonly_found_birds-2.pdf)
+* [Yellow Lake Trail Guide for Wildlife](/clubs/naak/yellow_lake_trail_guide_for_wildlife-2.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Native Trees](/clubs/naak/yellow_lake_commonly_found_native_trees-2.pdf)
+* [Yellow Lake Trail Guide for Commonly Found Native Groundcovers and Vines](/clubs/naak/yellow_lake__ground_and_vines_photos-2.pdf)
+* [Queen Bog: Site Assessment Report](/clubs/naak/Queens-Bog-report.pdf)
 * [Improving our Natural Areas article in the Issaquah/Sammamish Reporter from 2012](http://www.issaquahreporter.com/news/keeping-klahanie-clean-neighborhood-continues-to-improve-natural-areas/)
 * [NAAK Facebook](https://www.facebook.com/klahanienaak/)
 * [Earth Corps](http://www.earthcorps.org/)

@@ -10,4 +10,4 @@ description: Tanglewood is a multi-family development with 128 condos. It s loca
 ---
 Tanglewood is a multi-family development with 128 condos. It s located next to the Powerline walking trail and across from the King County Park and Challenger Elementary School.
 
-<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/tanglewood.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="/images/neighborhoods/tanglewood.svg" class="img-fluid"/>

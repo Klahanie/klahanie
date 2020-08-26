@@ -15,8 +15,8 @@ All members have agreed to pay an annual assessment to cover the maintenance and
 If you live in a home you are only under the guidance of the KHOA, however, if you live in a condo development, you will have an additional fee paid to your condo HOA to cover maintenance of your building and grounds as well as the KHOA to cover all the common areas and amenities.
 
 <div class="float-right col-md-4">
-  <img src="{{site.url}}/images/barclay1.jpg" class="img-thumbnail">
-  <img src="{{site.url}}/images/assoc-house-4.jpg" class="img-thumbnail">
+  <img src="/images/barclay1.jpg" class="img-thumbnail">
+  <img src="/images/assoc-house-4.jpg" class="img-thumbnail">
 </div>
 
 #### What are common areas and what belongs to the City of Sammamish? 
@@ -27,11 +27,11 @@ As a single-family home owner, you own your individual home and the lot it sits 
 
 #### Compliance- Architectural Controls
 
-The KHOA has a special section known as the Compliance Department that works with homeowners to help them understand the structure and responsibilities of living in cooperation with the established covenants that apply to all homes in Klahanie. Our [Architectural Controls]({{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf) set out the rules for all exterior home improvement projects.
+The KHOA has a special section known as the Compliance Department that works with homeowners to help them understand the structure and responsibilities of living in cooperation with the established covenants that apply to all homes in Klahanie. Our [Architectural Controls](/files/Klahanie-Association-Architectural-Controls-2018.pdf) set out the rules for all exterior home improvement projects.
 
 #### The process to make changes to your home or yard.
 
-At some point you may want to make changes in your home—paint a different color, repair the fence, add a deck or shed in the backyard, etc. Before you start the work PLEASE do yourself a favor and complete an [Architectural Controls Application]({{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf), or picked up a paper copy in the Association Office. This is the first step in gaining approval of the work you want to have done. The application will either be approved in the office by the Compliance Director, or referred to the ACC committee (consisting of a group of fellow homeowners) for approval or denial—you can always attend the meeting. Once approved and your work is completed, submit a digital photo of the completed work with The Completion Form and the process is completed.
+At some point you may want to make changes in your home—paint a different color, repair the fence, add a deck or shed in the backyard, etc. Before you start the work PLEASE do yourself a favor and complete an [Architectural Controls Application](/files/Klahanie-Association-Architectural-Controls-2018.pdf), or picked up a paper copy in the Association Office. This is the first step in gaining approval of the work you want to have done. The application will either be approved in the office by the Compliance Director, or referred to the ACC committee (consisting of a group of fellow homeowners) for approval or denial—you can always attend the meeting. Once approved and your work is completed, submit a digital photo of the completed work with The Completion Form and the process is completed.
 
 #### What happens when changes to your home are done without ACC approval?
 
@@ -46,6 +46,6 @@ If you ignore this first notice, or you don’t send in the photo showing that t
 All of these progressive steps are taken to protect the majority of the homeowners from the few who need additional encouragement to live up to their obligations to maintain their homes and yards. Don’t be one of those people!
 
 #### Learn More
-* [Exterior House Painting Color Palette]({{site.url}}/files/exterior_paint_palette.pdf)
-* [Fence Design Specifications]({{site.url}}/files/Fence-Design-and-Specifications.pdf)
-* [Roof Replacement Rules]({{site.url}}/files/roof-replacement.pdf)
+* [Exterior House Painting Color Palette](/files/exterior_paint_palette.pdf)
+* [Fence Design Specifications](/files/Fence-Design-and-Specifications.pdf)
+* [Roof Replacement Rules](/files/roof-replacement.pdf)

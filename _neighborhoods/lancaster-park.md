@@ -10,4 +10,4 @@ description: Lancaster Park has 101 single family homes. They are close to the L
 ---
 Lancaster Park has 101 single family homes. They are close to the Lancaster and Winslow Place Park areas that contain play structures and grass areas to play in. This area has access to the paved perimeter trail around Klahanie.
 
-<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/lancaster-park.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="/images/neighborhoods/lancaster-park.svg" class="img-fluid"/>

@@ -10,4 +10,4 @@ description: Winslow Place has 106 single family homes, and contains a park with
 ---
 Winslow Place has 106 single family homes, and contains a park with a play structure with an open field area and a green belt area on three sides of the park. This area is within easy walking distance of the Mountainview Pool and park area that contains a pool, play structure, two tennis courts, a basketball court, a pickle ball court, the Powerline walking trail and a Park and Ride area.
 
-<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/winslow-place.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="/images/neighborhoods/winslow-place.svg" class="img-fluid"/>
