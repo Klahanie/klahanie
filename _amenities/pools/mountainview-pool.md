@@ -22,6 +22,6 @@ show-title: true
 
 ### Schedule
 
-<iframe class="w-100" style="height:800px;" src="/images/Mountainview Schedule.pdf"></iframe>
+<iframe class="w-100" style="height:800px;" src="{{site.url}}/images/Mountainview Schedule.pdf"></iframe>
 
 

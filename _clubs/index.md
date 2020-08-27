@@ -11,11 +11,11 @@ show-title: true
 {% if doc.link == true %}
 <div class="row mb-4">
   {% if doc.thumbnail != nil %}
-    <img class="img-thumbnail col-md-2" src="{{doc.thumbnail}}">
+    <img class="img-thumbnail col-md-2" src="{{site.url}}{{doc.thumbnail}}">
   {% endif %}
     <div class="col-md-10">
       <h4>
-      <a href="{{doc.url}}">{{doc.title}}</a>
+      <a href="{{site.url}}{{doc.url}}">{{doc.title}}</a>
       </h4>
       <div>{{doc.description}}
       </div>

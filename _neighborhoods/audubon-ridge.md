@@ -12,4 +12,4 @@ description: Audubon Ridge is a 328 single family home neighborhood. Audubon Par
 
 Audubon Ridge is a neighborhood of 328 single family homes. Audubon Park is part of this subdivision and contains a large open field and a play structure.  This area is close to the main office, Klahanie Park, Lakeside pool, Yellow Lake, Yellow Lake trail, two tennis courts, basketball courts, two play structures and King County Park.Klahanie
 
-<object type="image/svg+xml" data="/images/neighborhoods/audubon-ridge.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="{{site.url}}//images/neighborhoods/audubon-ridge.svg" class="img-fluid"/>

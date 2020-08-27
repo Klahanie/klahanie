@@ -10,4 +10,4 @@ description: The Arbor has 133 single family homes. It borders Challenger Elemen
 ---
 The Arbor has 133 single family homes. It borders Challenger Elementary School and Beaver Lake Middle School and is close to the Beaver Lake Road entrance to Klahanie. It is also close to the community Pea Patch where homeowners can grow their own vegetables and flowers.
 
-<object type="image/svg+xml" data="/images/neighborhoods/the-arbor.svg" class="img-fluid"/>
+<object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/the-arbor.svg" class="img-fluid"/>

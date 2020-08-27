@@ -30,7 +30,7 @@ jobs:
 
     - name: Build Jekyll
       run: |
-        bundle exec jekyll build --config _config.staging.yml --base-url klahanie
+        bundle exec jekyll build --config _config.staging.yml
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
