@@ -16,10 +16,9 @@
 title: Klahanie Association
 email: info@klahanie.com
 description: "The Klahanie Association is a home owners association on the Sammamish Plateau, situated on the south end of Sammamish, WA, near Issaquah. Klahanie has more than 3000 homes, miles of trails, and two swimming pools. This site has details for homeowners, residents, and potential buyers!"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://klahanie.github.io/klahanie" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  klahanie
-github_url: "https://github.com/klahanie/klahanie"
+github_url: "https://github.com/klahanie/klahanie/"
 branch: "master"
 paginate: 10
 
