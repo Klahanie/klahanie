@@ -5,7 +5,7 @@
       "title"    : "",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/404.html",
+      "url"      : "/404.html",
       "date"     : ""
     },
     
@@ -14,7 +14,7 @@
       "title"    : "Administration",
       "categories" : "association",
       "tags"     : "",
-      "url"      : "/klahanie/administration.html",
+      "url"      : "/administration.html",
       "date"     : "2019-06-11 08:52"
     },
     
@@ -23,7 +23,7 @@
       "title"    : "The Association",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/association.html",
+      "url"      : "/association.html",
       "date"     : "2015-03-12 14:09"
     },
     
@@ -32,7 +32,7 @@
       "title"    : "Board of Directors",
       "categories" : "board,association",
       "tags"     : "",
-      "url"      : "/klahanie/board-of-directors.html",
+      "url"      : "/board-of-directors.html",
       "date"     : "2015-03-12 14:10"
     },
     
@@ -41,7 +41,7 @@
       "title"    : "Buying or Selling a Home",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/buying-a-home.html",
+      "url"      : "/buying-a-home.html",
       "date"     : "2015-03-12 14:10"
     },
     
@@ -50,7 +50,7 @@
       "title"    : "Events calendar",
       "categories" : "events",
       "tags"     : "",
-      "url"      : "/klahanie/events-calendar.html",
+      "url"      : "/events-calendar.html",
       "date"     : "2020-02-16 20:55"
     },
     
@@ -59,7 +59,7 @@
       "title"    : "Come Home to Klahanie",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/",
+      "url"      : "/",
       "date"     : "2015-03-12 14:07"
     },
     
@@ -68,7 +68,7 @@
       "title"    : "Klahanie Volunteers",
       "categories" : "association",
       "tags"     : "",
-      "url"      : "/klahanie/klahanie-volunteers.html",
+      "url"      : "/klahanie-volunteers.html",
       "date"     : "2020-02-16 20:55"
     },
     
@@ -77,7 +77,7 @@
       "title"    : "Links and resources",
       "categories" : "sections",
       "tags"     : "",
-      "url"      : "/klahanie/links.html",
+      "url"      : "/links.html",
       "date"     : "2019-07-01 04:34"
     },
     
@@ -86,7 +86,7 @@
       "title"    : "Klahanie Magazine",
       "categories" : "magazine",
       "tags"     : "",
-      "url"      : "/klahanie/magazine.html",
+      "url"      : "/magazine.html",
       "date"     : "2019-06-10 04:37"
     },
     
@@ -95,7 +95,7 @@
       "title"    : "Homeowners Association Obligations and Compliance",
       "categories" : "association",
       "tags"     : "",
-      "url"      : "/klahanie/obligations-and-compliance.html",
+      "url"      : "/obligations-and-compliance.html",
       "date"     : "2019-06-11 07:34"
     },
     
@@ -104,7 +104,7 @@
       "title"    : "Policy Resolutions",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/policy-resolutions.html",
+      "url"      : "/policy-resolutions.html",
       "date"     : "2019-11-08 14:33"
     },
     
@@ -113,7 +113,7 @@
       "title"    : "Renting Your Home",
       "categories" : "association",
       "tags"     : "",
-      "url"      : "/klahanie/renting-your-home.html",
+      "url"      : "/renting-your-home.html",
       "date"     : "2019-06-12 17:21"
     },
     
@@ -122,7 +122,7 @@
       "title"    : "",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/search.json",
+      "url"      : "/search.json",
       "date"     : ""
     },
     
@@ -131,7 +131,7 @@
       "title"    : "Shopping Center",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/shopping-center.html",
+      "url"      : "/shopping-center.html",
       "date"     : "2019-08-04 02:55"
     },
     
@@ -140,7 +140,7 @@
       "title"    : "Staff",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/staff.html",
+      "url"      : "/staff.html",
       "date"     : "2020-08-25 00:00"
     },
     
@@ -149,7 +149,7 @@
       "title"    : "Volunteer for Committees",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/volunteer-committees.html",
+      "url"      : "/volunteer-committees.html",
       "date"     : "2020-02-17 10:55"
     },
     
@@ -158,7 +158,7 @@
       "title"    : "",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/assets/main.css",
+      "url"      : "/assets/main.css",
       "date"     : ""
     },
     
@@ -167,7 +167,7 @@
       "title"    : "",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/feed.xml",
+      "url"      : "/feed.xml",
       "date"     : ""
     },
     
@@ -176,7 +176,7 @@
       "title"    : "Klahanie Park Update",
       "categories" : "announcements",
       "tags"     : "",
-      "url"      : "/klahanie/announcements/2019-05-27-klahanie-park.html",
+      "url"      : "/announcements/2019-05-27-klahanie-park.html",
       "date"     : "2019-05-27 03:59:00 +0000"
     },
     
@@ -185,7 +185,7 @@
       "title"    : "Announcements",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/announcements/index.html",
+      "url"      : "/announcements/index.html",
       "date"     : "2019-07-01 04:30:00 +0000"
     },
     
@@ -194,7 +194,7 @@
       "title"    : "Pool Employment",
       "categories" : "announcements",
       "tags"     : "",
-      "url"      : "/klahanie/announcements/2019-10-22-pool-jobs.html",
+      "url"      : "/announcements/2019-10-22-pool-jobs.html",
       "date"     : "2019-10-22 10:43:00 +0000"
     },
     
@@ -203,7 +203,7 @@
       "title"    : "Announcement of Emergency Board Meeting",
       "categories" : "announcements",
       "tags"     : "",
-      "url"      : "/klahanie/announcements/2020-03-25-announcement-of-emergency-board-meeting.html",
+      "url"      : "/announcements/2020-03-25-announcement-of-emergency-board-meeting.html",
       "date"     : "2020-03-25 20:45:00 +0000"
     },
     
@@ -212,7 +212,7 @@
       "title"    : "Klahanie Pools Re-Open July 1!",
       "categories" : "announcements",
       "tags"     : "",
-      "url"      : "/klahanie/announcements/2020-06-30-pool-re-opening.html",
+      "url"      : "/announcements/2020-06-30-pool-re-opening.html",
       "date"     : "2020-06-30 17:00:00 +0000"
     },
     
@@ -221,7 +221,7 @@
       "title"    : "Ashley Park",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/ashley-park.html",
+      "url"      : "/neighborhoods/ashley-park.html",
       "date"     : "2019-07-12 19:18:00 +0000"
     },
     
@@ -230,7 +230,7 @@
       "title"    : "Audubon Ridge",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/audubon-ridge.html",
+      "url"      : "/neighborhoods/audubon-ridge.html",
       "date"     : "2019-07-12 19:22:00 +0000"
     },
     
@@ -239,7 +239,7 @@
       "title"    : "Barclay Square",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/barclay-square.html",
+      "url"      : "/neighborhoods/barclay-square.html",
       "date"     : "2019-07-12 19:54:00 +0000"
     },
     
@@ -248,7 +248,7 @@
       "title"    : "Fairfield Green",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/fairfield-green.html",
+      "url"      : "/neighborhoods/fairfield-green.html",
       "date"     : "2019-07-12 19:59:00 +0000"
     },
     
@@ -257,7 +257,7 @@
       "title"    : "Heatherwood",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/heatherwood.html",
+      "url"      : "/neighborhoods/heatherwood.html",
       "date"     : "2019-07-12 20:00:00 +0000"
     },
     
@@ -266,7 +266,7 @@
       "title"    : "Kenlock",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/kenlock.html",
+      "url"      : "/neighborhoods/kenlock.html",
       "date"     : "2019-07-12 20:01:00 +0000"
     },
     
@@ -275,7 +275,7 @@
       "title"    : "Highland Gardens",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/highland-gardens.html",
+      "url"      : "/neighborhoods/highland-gardens.html",
       "date"     : "2019-07-12 20:02:00 +0000"
     },
     
@@ -284,7 +284,7 @@
       "title"    : "Lake Park",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/lake-park.html",
+      "url"      : "/neighborhoods/lake-park.html",
       "date"     : "2019-07-12 20:04:00 +0000"
     },
     
@@ -293,7 +293,7 @@
       "title"    : "Lake Pointe",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/lake-pointe.html",
+      "url"      : "/neighborhoods/lake-pointe.html",
       "date"     : "2019-07-12 20:08:00 +0000"
     },
     
@@ -302,7 +302,7 @@
       "title"    : "Lancaster Park",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/lancaster-park.html",
+      "url"      : "/neighborhoods/lancaster-park.html",
       "date"     : "2019-07-12 20:13:00 +0000"
     },
     
@@ -311,7 +311,7 @@
       "title"    : "Madison Place",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/madison-place.html",
+      "url"      : "/neighborhoods/madison-place.html",
       "date"     : "2019-07-12 20:28:00 +0000"
     },
     
@@ -320,7 +320,7 @@
       "title"    : "Oxford Park",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/oxford-park.html",
+      "url"      : "/neighborhoods/oxford-park.html",
       "date"     : "2019-07-12 20:29:00 +0000"
     },
     
@@ -329,7 +329,7 @@
       "title"    : "Sierra",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/sierra.html",
+      "url"      : "/neighborhoods/sierra.html",
       "date"     : "2019-07-12 20:31:00 +0000"
     },
     
@@ -338,7 +338,7 @@
       "title"    : "Skye Landing",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/skye-landing.html",
+      "url"      : "/neighborhoods/skye-landing.html",
       "date"     : "2019-07-12 20:32:00 +0000"
     },
     
@@ -347,7 +347,7 @@
       "title"    : "Summerwalk",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/summerwalk.html",
+      "url"      : "/neighborhoods/summerwalk.html",
       "date"     : "2019-07-12 20:34:00 +0000"
     },
     
@@ -356,7 +356,7 @@
       "title"    : "Sundance",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/sundance.html",
+      "url"      : "/neighborhoods/sundance.html",
       "date"     : "2019-07-12 20:35:00 +0000"
     },
     
@@ -365,7 +365,7 @@
       "title"    : "Tanglewood",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/tanglewood.html",
+      "url"      : "/neighborhoods/tanglewood.html",
       "date"     : "2019-07-12 20:37:00 +0000"
     },
     
@@ -374,7 +374,7 @@
       "title"    : "The Arbor",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-arbor.html",
+      "url"      : "/neighborhoods/the-arbor.html",
       "date"     : "2019-07-12 20:38:00 +0000"
     },
     
@@ -383,7 +383,7 @@
       "title"    : "The Heights",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-heights.html",
+      "url"      : "/neighborhoods/the-heights.html",
       "date"     : "2019-07-12 20:40:00 +0000"
     },
     
@@ -392,7 +392,7 @@
       "title"    : "The Ridge",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-ridge.html",
+      "url"      : "/neighborhoods/the-ridge.html",
       "date"     : "2019-07-12 20:42:00 +0000"
     },
     
@@ -401,7 +401,7 @@
       "title"    : "The Village",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-village.html",
+      "url"      : "/neighborhoods/the-village.html",
       "date"     : "2019-07-12 20:43:00 +0000"
     },
     
@@ -410,7 +410,7 @@
       "title"    : "The Willows",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-willows.html",
+      "url"      : "/neighborhoods/the-willows.html",
       "date"     : "2019-07-12 20:45:00 +0000"
     },
     
@@ -419,7 +419,7 @@
       "title"    : "Traditions",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/traditions.html",
+      "url"      : "/neighborhoods/traditions.html",
       "date"     : "2019-07-12 20:46:00 +0000"
     },
     
@@ -428,7 +428,7 @@
       "title"    : "The Summit",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/the-summit.html",
+      "url"      : "/neighborhoods/the-summit.html",
       "date"     : "2019-07-12 21:49:00 +0000"
     },
     
@@ -437,7 +437,7 @@
       "title"    : "Neighborhoods",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/index.html",
+      "url"      : "/neighborhoods/index.html",
       "date"     : "2019-07-23 21:12:00 +0000"
     },
     
@@ -446,7 +446,7 @@
       "title"    : "Winslow Place",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/neighborhoods/winslow-place.html",
+      "url"      : "/neighborhoods/winslow-place.html",
       "date"     : "2019-10-12 17:34:00 +0000"
     },
     
@@ -455,7 +455,7 @@
       "title"    : "Pea Patch",
       "categories" : "clubs",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/pea-patch.html",
+      "url"      : "/clubs/pea-patch.html",
       "date"     : "2019-06-09 07:51:00 +0000"
     },
     
@@ -464,7 +464,7 @@
       "title"    : "Neighborhood Watch and Emergency Preparedness",
       "categories" : "clubs",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/neighborhood-watch-and-emergency-preparedness.html",
+      "url"      : "/clubs/neighborhood-watch-and-emergency-preparedness.html",
       "date"     : "2019-06-10 07:25:00 +0000"
     },
     
@@ -473,7 +473,7 @@
       "title"    : "Klahanie Sharks Swim Team",
       "categories" : "pools,clubs",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/klahanie-swim-team.html",
+      "url"      : "/clubs/klahanie-swim-team.html",
       "date"     : "2019-06-10 07:36:00 +0000"
     },
     
@@ -482,7 +482,7 @@
       "title"    : "Clubs and Groups",
       "categories" : "clubs",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/index.html",
+      "url"      : "/clubs/index.html",
       "date"     : "2019-06-10 07:55:00 +0000"
     },
     
@@ -491,7 +491,7 @@
       "title"    : "Natural Areas Association of Klahanie (NAAK)",
       "categories" : "clubs",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/natural-areas-association-of-klahanie-naak.html",
+      "url"      : "/clubs/natural-areas-association-of-klahanie-naak.html",
       "date"     : "2019-07-01 07:14:00 +0000"
     },
     
@@ -500,7 +500,7 @@
       "title"    : "NAAK / EarthCorps Projects for 2019",
       "categories" : "naak",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/naak/naak-earthcorps-projects-for-2019.html",
+      "url"      : "/clubs/naak/naak-earthcorps-projects-for-2019.html",
       "date"     : "2019-07-14 02:25:00 +0000"
     },
     
@@ -509,7 +509,7 @@
       "title"    : "NAAK History and Accomplishments",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/clubs/naak/naak-history-and-accomplishments.html",
+      "url"      : "/clubs/naak/naak-history-and-accomplishments.html",
       "date"     : "2019-07-14 03:07:00 +0000"
     },
     
@@ -518,7 +518,7 @@
       "title"    : "Klahanie Pools",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/index.html",
+      "url"      : "/amenities/pools/index.html",
       "date"     : "2019-05-28 05:11:00 +0000"
     },
     
@@ -527,7 +527,7 @@
       "title"    : "Tennis Information",
       "categories" : "amenities",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/tennis-information.html",
+      "url"      : "/amenities/tennis-information.html",
       "date"     : "2019-05-28 06:04:00 +0000"
     },
     
@@ -536,7 +536,7 @@
       "title"    : "Klahanie Neighborhood Patrol",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/klahanie-neighborhood-patrol.html",
+      "url"      : "/amenities/klahanie-neighborhood-patrol.html",
       "date"     : "2019-06-10 03:42:00 +0000"
     },
     
@@ -545,7 +545,7 @@
       "title"    : "Swim Lessons",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/swim-lessons.html",
+      "url"      : "/amenities/pools/swim-lessons.html",
       "date"     : "2019-06-10 06:01:00 +0000"
     },
     
@@ -554,7 +554,7 @@
       "title"    : "Lakeside Pool Schedule",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/lakeside-pool.html",
+      "url"      : "/amenities/pools/lakeside-pool.html",
       "date"     : "2019-07-15 10:01:00 +0000"
     },
     
@@ -563,7 +563,7 @@
       "title"    : "Pool Rules",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/pool-rules.html",
+      "url"      : "/amenities/pools/pool-rules.html",
       "date"     : "2019-08-05 08:18:00 +0000"
     },
     
@@ -572,7 +572,7 @@
       "title"    : "Mountainview Pool",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/mountainview-pool.html",
+      "url"      : "/amenities/pools/mountainview-pool.html",
       "date"     : "2019-11-20 13:13:00 +0000"
     },
     
@@ -581,7 +581,7 @@
       "title"    : "COVID-19 Swim Guidelines",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/covid-guidelines.html",
+      "url"      : "/amenities/pools/covid-guidelines.html",
       "date"     : "2020-07-16 10:35:00 +0000"
     },
     
@@ -590,7 +590,7 @@
       "title"    : "Amenities",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/index.html",
+      "url"      : "/amenities/index.html",
       "date"     : "2020-07-28 00:00:00 +0000"
     },
     
@@ -599,7 +599,7 @@
       "title"    : "Klahanie Magazine - Winter 2012",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2018-10-01.html",
+      "url"      : "/magazine/2018-10-01.html",
       "date"     : "2018-10-01 00:00:00 +0000"
     },
     
@@ -608,7 +608,7 @@
       "title"    : "Klahanie Magazine - March 2019",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2019-03-01.html",
+      "url"      : "/magazine/2019-03-01.html",
       "date"     : "2019-03-01 00:00:00 +0000"
     },
     
@@ -617,7 +617,7 @@
       "title"    : "Klahanie Magazine - May 2019",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2019-05-01.html",
+      "url"      : "/magazine/2019-05-01.html",
       "date"     : "2019-05-01 00:00:00 +0000"
     },
     
@@ -626,7 +626,7 @@
       "title"    : "Klahanie Magazine - July 2019",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2019-07-01.html",
+      "url"      : "/magazine/2019-07-01.html",
       "date"     : "2019-07-01 00:00:00 +0000"
     },
     
@@ -635,7 +635,7 @@
       "title"    : "Klahanie Magazine - September 2019",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2019-09-01.html",
+      "url"      : "/magazine/2019-09-01.html",
       "date"     : "2019-09-01 00:00:00 +0000"
     },
     
@@ -644,7 +644,7 @@
       "title"    : "Klahanie Magazine - November 2019",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2019-11-01.html",
+      "url"      : "/magazine/2019-11-01.html",
       "date"     : "2019-11-01 00:00:00 +0000"
     },
     
@@ -653,7 +653,7 @@
       "title"    : "Klahanie Magazine - January 2020",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2020-01-01.html",
+      "url"      : "/magazine/2020-01-01.html",
       "date"     : "2020-01-01 00:00:00 +0000"
     },
     
@@ -662,7 +662,7 @@
       "title"    : "Klahanie Magazine - April 2020",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/magazine/2020-04-01.html",
+      "url"      : "/magazine/2020-04-01.html",
       "date"     : "2020-03-01 00:00:00 +0000"
     },
     
@@ -671,7 +671,7 @@
       "title"    : "Klahanie Pools",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/index.html",
+      "url"      : "/amenities/pools/index.html",
       "date"     : "2019-05-28 05:11:00 +0000"
     },
     
@@ -680,7 +680,7 @@
       "title"    : "Tennis Information",
       "categories" : "amenities",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/tennis-information.html",
+      "url"      : "/amenities/tennis-information.html",
       "date"     : "2019-05-28 06:04:00 +0000"
     },
     
@@ -689,7 +689,7 @@
       "title"    : "Klahanie Neighborhood Patrol",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/klahanie-neighborhood-patrol.html",
+      "url"      : "/amenities/klahanie-neighborhood-patrol.html",
       "date"     : "2019-06-10 03:42:00 +0000"
     },
     
@@ -698,7 +698,7 @@
       "title"    : "Swim Lessons",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/swim-lessons.html",
+      "url"      : "/amenities/pools/swim-lessons.html",
       "date"     : "2019-06-10 06:01:00 +0000"
     },
     
@@ -707,7 +707,7 @@
       "title"    : "Lakeside Pool Schedule",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/lakeside-pool.html",
+      "url"      : "/amenities/pools/lakeside-pool.html",
       "date"     : "2019-07-15 10:01:00 +0000"
     },
     
@@ -716,7 +716,7 @@
       "title"    : "Pool Rules",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/pool-rules.html",
+      "url"      : "/amenities/pools/pool-rules.html",
       "date"     : "2019-08-05 08:18:00 +0000"
     },
     
@@ -725,7 +725,7 @@
       "title"    : "Mountainview Pool",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/mountainview-pool.html",
+      "url"      : "/amenities/pools/mountainview-pool.html",
       "date"     : "2019-11-20 13:13:00 +0000"
     },
     
@@ -734,7 +734,7 @@
       "title"    : "COVID-19 Swim Guidelines",
       "categories" : "pool",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/pools/covid-guidelines.html",
+      "url"      : "/amenities/pools/covid-guidelines.html",
       "date"     : "2020-07-16 10:35:00 +0000"
     },
     
@@ -743,7 +743,7 @@
       "title"    : "Amenities",
       "categories" : "",
       "tags"     : "",
-      "url"      : "/klahanie/amenities/index.html",
+      "url"      : "/amenities/index.html",
       "date"     : "2020-07-28 00:00:00 +0000"
     }
     
