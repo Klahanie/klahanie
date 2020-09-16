@@ -50,6 +50,6 @@ jobs:
         # Target url location
         target_url: 'https://klahanie.github.io/klahanie'
         # Descriptive message about the deployment
-        description: 'Deployed ${{ GITHUB_SHA }} to staging'
+        description: 'Deployed $GITHUB_SHA to staging'
         # The name of the environment for the deployment
         environment: 'Staging'
