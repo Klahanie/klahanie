@@ -2,8 +2,12 @@
 
     <div class="footer col-sm-12 text-right m-0 p-4">
       <p class="small">&copy; Klahanie Association, 2020<br>
-      Last Modified: {% last_modified_at %b %d, %Y %}</p>
+      Last modified: {{ site.time %b %d, %Y }}
+      </p>
+    
+      {% if page.path != '.html' %}
       <p class="small"><a href="https://github.com/{{ site.github.repository_nwo }}/edit/{{ site.branch }}/{{ page.path }}">Improve this page</a></p>
+      {% endif %}
     </div>
     <div id="myModal" class="modal fade" role="dialog">
       <div class="modal-dialog">
@@ -30,7 +34,7 @@
         SimpleJekyllSearch({
           searchInput: document.getElementById('search-input'),
           resultsContainer: document.getElementById('results-container'),
-          json: 'search.json',
+          json: '{{ site.url }}search.json',
           searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
           noResultsText: 'No results found',
           limit: 10,

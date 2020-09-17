@@ -32,12 +32,21 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-last-modified-at
   - jekyll-paginate
   - jekyll-github-metadata
 
 # Enable or disable heading anchors
 heading_anchors: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  offset: 0
+  permalink: '/page/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 collections:  
   announcements:

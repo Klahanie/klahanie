@@ -54,4 +54,3 @@ grass, however it did away with open space.
 synthetic turf, added elevated field lights and allocated about half of the
 park space to a cricket field. This is the most intensely developed of all the
 options and appears to be the most expensive to develop.
-
