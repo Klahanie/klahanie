@@ -13,11 +13,3 @@ You can track along with us here: https://www.purpleair.com/map?opt=1/mAQI/a10/c
 Contact the Main Office directly should you have any further questions or concerns at 425-392-4663 or info@klahanie.com
 
 Stay Safe Klahanie!
-This is the article body. 
-
-* [Link](https://link.com)
-* [Link](https://link.com)
-
-### Subheader
-
-Another paragrap
