@@ -20,7 +20,6 @@ url: "https://klahanie.github.io/klahanie" # the base hostname & protocol for yo
 github_username:  klahanie
 github_url: "https://github.com/klahanie/klahanie/"
 branch: "master"
-paginate: 10
 
 # Build settings
 markdown: kramdown
