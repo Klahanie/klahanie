@@ -42,7 +42,7 @@ jobs:
       uses: chrnorm/deployment-action@v1.2.0
       with:
         # Initial status for the deployment
-        initial_status: # optional, default is pending
+        initial_status: Active
         # The reference for the deployment
         ref: # optional
         # Github repository token
