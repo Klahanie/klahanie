@@ -33,7 +33,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-github-metadata
   
 # Enable or disable heading anchors
