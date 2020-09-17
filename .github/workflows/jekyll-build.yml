@@ -36,3 +36,20 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
+    - name: Deployment Action
+      # You may pin to the exact commit or the version.
+      # uses: chrnorm/deployment-action@0a0479c8ab41cd336ddc266342ca0a1c54727a72
+      uses: chrnorm/deployment-action@v1.2.0
+      with:
+        # Initial status for the deployment
+        initial_status: 'success'
+        # The reference for the deployment
+        ref: # optional
+        # Github repository token
+        token: ${{ secrets.GITHUB_TOKEN }}
+        # Target url location
+        target_url: 'https://klahanie.github.io/klahanie'
+        # Descriptive message about the deployment
+        description: 'Deployed $GITHUB_SHA to staging'
+        # The name of the environment for the deployment
+        environment: 'Staging'
