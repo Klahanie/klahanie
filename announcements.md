@@ -29,7 +29,7 @@ pagination:
 <div class="row">
 <div class="pagination mt-4 mx-auto">
   {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    <a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}">&laquo; Prev</a>
   {% else %}
     <span>&laquo; Prev</span>
   {% endif %}
@@ -38,14 +38,14 @@ pagination:
     {% if page == paginator.page %}
       <span class="webjeda">{{ page }}</span>
     {% elsif page == 1 %}
-      <a href="{{ paginator.first_page_path | prepend: site.baseurl }}">{{ page }}</a>
+      <a href="{{ paginator.first_page_path | prepend: site.url }}">{{ page }}</a>
     {% else %}
-      <a href="{{ paginator.first_page_path | prepend: site.baseurl | append: '/page:num/' | replace: ':num', page | replace: '//', '/' }}">{{ page }}</a>
+      <a href="{{ paginator.first_page_path | prepend: site.url | append: '/page:num/' | replace: ':num', page | replace: '//', '/' }}">{{ page }}</a>
     {% endif %}
   {% endfor %}
 
   {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    <a href="{{ paginator.next_page_path | prepend: site.url | replace: '//', '/' }}">Next &raquo;</a>
   {% else %}
     <span>Next &raquo;</span>
   {% endif %}
