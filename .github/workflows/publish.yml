@@ -39,7 +39,7 @@ jobs:
         password: ${{secrets.FTP_PASSWORD}}
         forceSsl: true
         localDir: ./_site
-        remoteDir: ./
+        remoteDir: .
     - name: Deployment 
       # You may pin to the exact commit or the version.
       # uses: chrnorm/deployment-action@0a0479c8ab41cd336ddc266342ca0a1c54727a72
@@ -57,3 +57,4 @@ jobs:
         description: 'Deployed $GITHUB_SHA to production'
         # The name of the environment for the deployment
         environment: 'Production'
+
