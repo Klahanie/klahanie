@@ -20,7 +20,6 @@ url: "https://klahanie.github.io/klahanie" # the base hostname & protocol for yo
 github_username:  klahanie
 github_url: "https://github.com/klahanie/klahanie/"
 branch: "master"
-paginate: 10
 
 # Build settings
 markdown: kramdown
@@ -32,12 +31,21 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-last-modified-at
-  - jekyll-paginate
+  - jekyll-paginate-v2
   - jekyll-github-metadata
 
 # Enable or disable heading anchors
 heading_anchors: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  offset: 0
+  permalink: '/page/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
 
 collections:  
   announcements:
