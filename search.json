@@ -173,29 +173,29 @@
     
     
     {
+      "title"    : "Announcements",
+      "categories" : "",
+      "tags"     : "",
+      "url"      : "/announcements/index.html",
+      "date"     : "2019-07-01 04:30"
+    },
+    
+    
+    {
+      "title"    : "Announcements - page 2",
+      "categories" : "",
+      "tags"     : "",
+      "url"      : "/announcements/page2/index.html",
+      "date"     : "2019-07-01 04:30"
+    },
+    
+    
+    {
       "title"    : "Klahanie Park Update",
       "categories" : "announcements",
       "tags"     : "",
       "url"      : "/announcements/2019-05-27-klahanie-park.html",
       "date"     : "2019-05-27 03:59:00 +0000"
-    },
-    
-    
-    {
-      "title"    : "Announcements",
-      "categories" : "",
-      "tags"     : "",
-      "url"      : "/announcements/index.html",
-      "date"     : "2019-07-01 04:30:00 +0000"
-    },
-    
-    
-    {
-      "title"    : "Air Quality Update",
-      "categories" : "announcements",
-      "tags"     : "",
-      "url"      : "/announcements/2020-09-18",
-      "date"     : "2019-09-18 09:15:00 +0000"
     },
     
     
