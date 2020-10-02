@@ -24,7 +24,7 @@ Each HOA has their own set of governing documents and hierarchy.
 
 #### Covenants, Conditions, and Restrictions (CC&amp;Rs)
 
-At the top are the <a href="http://klahanie.com/coventants-conditions-restrictions/">Covenants, Conditions, &amp; Restrictions (CC&amp;Rs)</a>, often also referred to as the Declarations. These define the limits or restrictions of the rights of ownership and apply to the land regardless of who later owns it. Each property deed has a declaration recorded which defines the bundle of rights or each owner in the association.
+At the top are the <a href="{{site.url}}/files/Klahanie-Association-CCRs-2018.pdf">Covenants, Conditions, &amp; Restrictions (CC&amp;Rs)</a>, often also referred to as the Declarations. These define the limits or restrictions of the rights of ownership and apply to the land regardless of who later owns it. Each property deed has a declaration recorded which defines the bundle of rights or each owner in the association.
 
 The CC&amp;R’s are the most permanent of the legal documents. For Klahanie, it takes a positive vote of two- thirds of all living units (3090 living units) to make a change in the CC&amp;R terms.
 
@@ -38,7 +38,7 @@ The CC&amp;R’s provide the following:
 
 #### Articles of incorporation
 
-Klahanie was legally filed as a not-for-profit corporation. The <a href="http://klahanie.com/certificate-of-incorporation/">Articles of Incorporation</a> provide the terms for our non-profit status. The benefits of this filing include:
+Klahanie was legally filed as a not-for-profit corporation. The <a href="{{site.url}}/files/Klahanie-Articles-of-Incorp.pdf">Articles of Incorporation</a> provide the terms for our non-profit status. The benefits of this filing include:
 
 * It limits the liability of individual owners for acts of the association
 * Entitles the association to the rights granted to all corporations under state law-useful in obtaining insurance or bring suit against another party
@@ -46,7 +46,7 @@ Klahanie was legally filed as a not-for-profit corporation. The <a href="http://
 * Grants the board of directors the same rights as all board members of incorporated entities under state statutes
 
 #### Bylaws
-The Association <a href="http://klahanie.com/klahanie-bylaws/" >Bylaws</a> address topics like:
+The Association <a href="{{site.url}}/files/Klahanie-Association-Bylaws-2018.pdf" >Bylaws</a> address topics like:
 
 * Requirements for membership in the association
 * Requirements for membership meetings
@@ -57,8 +57,8 @@ The Association <a href="http://klahanie.com/klahanie-bylaws/" >Bylaws</a> addre
 
 #### Rules and Regulations
 
-Klahanie has a set of rules that are able to be revised as conditions change called the <a href="http://klahanie.com/klahanie-community-rules-regulations/">Rules and Regulations</a>. They are approved by the board of directors in order to maintain and enhance Klahanie’s property values, attractiveness and desirability. The rules and regulations also define the process of dealing with complaints due to not following the rules
+Klahanie has a set of rules that are able to be revised as conditions change called the <a href="{{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf">Rules and Regulations</a>. They are approved by the board of directors in order to maintain and enhance Klahanie’s property values, attractiveness and desirability. The rules and regulations also define the process of dealing with complaints due to not following the rules
 
 #### Architectural Controls
 
-Aligned with the Governing Documents are the <a href="http://klahanie.com/architectural-controls/">Architectural Controls</a> for the association. The authority to enforce these controls is vested in a mandatory committee known as the Architectural Control Committee or ACC and is staffed by community volunteers. Most all the sections in the Architectural Controls deal with standards relating to the home or yards of members. In some cases, a permit must be submitted before any modifications take place in order to enforce consistent standards
+Aligned with the Governing Documents are the <a href="{{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf">Architectural Controls</a> for the association. The authority to enforce these controls is vested in a mandatory committee known as the Architectural Control Committee or ACC and is staffed by community volunteers. Most all the sections in the Architectural Controls deal with standards relating to the home or yards of members. In some cases, a permit must be submitted before any modifications take place in order to enforce consistent standards

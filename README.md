@@ -8,7 +8,7 @@ We recommend using [Visual Studio Code](https://code.visualstudio.com/) and [Git
 * Clone this repository using GitHub Desktop.
 * Open a terminal and navigate to the folder you cloned the repository into
 * Run `gem install` to install all of the build dependencies
-* Once this completes successfully you can build and run a local web server by running `bundle exec jekyll build`
+* Once this completes successfully you can build and run a local web server by running `bundle exec jekyll serve`
 
 ### Creating announcements
 

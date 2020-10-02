@@ -7,10 +7,11 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
+<div class="alert alert-info">
+  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/pools/covid-guidelines.html">Learn more</a>
 </div>
 
-<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
+<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail" alt="Child at Klahanie pools doing a cannonball">
 
 * [Lakeside Pool Schedule]({{site.url}}/amenities/pools/lakeside-pool.html)
 * [Mountainview Pool Schedule]({{site.url}}/amenities/pools/mountainview-pool.html)
@@ -25,4 +26,6 @@ Every Klahanie resident is permitted to enjoy the Klahanie pools and to particip
 In order to enter the pool, please have your ID ready and show it at check-in.
 
 ### Contact 
-If you have any questions, you may reach us via [email](mailto:pools@klahanie.com) or [telephone (425) 463-6388](tel:425-463-6388)
+- [Email](mailto:swimlessons@klahanie.com)
+- Mountainview Pool [(425) 557-7856](tel:425-557-7856)
+- Lakeside Pool: [(425)391-8503](tel:425-391-8503)

@@ -14,7 +14,7 @@ banner: /images/family-playing-outdoors.jpg
 
 <blockquote class="blockquote">If You See Something, Say Something</blockquote>
 
-<img src="{{site.url}}images/Neighborhood-Watch.png" class="float-right w-20">
+<img src="{{site.url}}/images/Neighborhood-Watch.png" class="float-right w-20">
 **Neighborhood Watch (NW) begins when you and your neighbors. **
 
 If you are interested in starting a neighborhoow watch program in your area, host a block party and:

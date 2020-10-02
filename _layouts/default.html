@@ -10,16 +10,16 @@
   <div class="main col-lg-10 col-md-9 col-sm-12 p-0">
     <div class="header">
       {% if page.show-title == true and page.banner %}
-      <img src="{{site.url}}/{{page.banner}}" class="img-fluid w-100">
+      <img src="{{site.url}}{{page.banner}}" class="img-fluid w-100">
       <div class="header-background">
         <h1 class="text-center">{{ page.title }}</h1>
       </div>
       {% else %}
         {% if page.banner %}
-        <img src="{{site.url}}/{{page.banner}}" class="img-fluid w-100">
+        <img src="{{site.url}}{{page.banner}}" class="img-fluid w-100" alt="{{page.title}}">
         {% endif %}
         {% if page.video-banner %}
-        <video autoplay muted loop class="img-fluid w-100"><source src="{{page.video-banner}}" class="img-fluid w-100">"></video>
+        <video autoplay muted loop class="img-fluid w-100"><source src="{{site.url}}{{page.video-banner}}" class="img-fluid w-100">"></video>
         {% endif %}
         {% if page.show-title == true %}
           <h1 class="page-header p-4">{{ page.title }}</h1>

@@ -3,3 +3,4 @@
 _site/
 **/.sass_cache/**
 *.scssc
+.jekyll-cache/**
