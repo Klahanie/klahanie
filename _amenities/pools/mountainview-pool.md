@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Mountainview Pool
+title: Mountainview Pool Schedule
 date: 2019-11-20 13:13
 author: Klahanie
 comments: true

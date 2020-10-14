@@ -14,15 +14,15 @@ video-banner: /images/klahanie-intro.mp4
 </div>
 <div class="p-4 row">
 
-<p>Located on a forested plateau 18-miles east of Seattle, Klahanie comprises 900 acres containing 1,967 single family homes, 718 multifamily residences, and 405 apartment units. The residents are surrounded by natural areas in every direction, including 30-miles of groomed trails, a scenic alpine lake, two swimming pools, three tennis and four basketball courts, four Pickle Ball/ Badminton courts and baseball fields.</p>
+<p>Located on a forested plateau 18 miles east of Seattle, the 900-acre Klahanie neighborhood contains 1,967 single family homes, 718 condominium units, and 405 apartment units. Our residents are surrounded by nature and recreation areas in every direction, including 30 miles of groomed trails, a scenic alpine lake, two swimming pools, three tennis and four basketball courts, four pickleball/badminton courts, and baseball fields.</p>
 
-<p>Originally launched in 1984, Klahanie grew in stages over the following decade due to the planned involvement of several established home builders, there exists is a variety of home designs, sizes and features that have continued to be very attractive to families 35-years later.</p>
+<p>Originally launched in 1984, Klahanie grew in stages over the following decade. Involving several established home builders during each stage ensured that our community had a variety of home designs, sizes, and features that have continued to be very attractive to families.</p>
 
-<p>During the past three decades the once rural plateau has become suburban and is now in close proximity to major employers. The Costco world headquarters is four miles away. Microsoft is in the adjacent community to the north and Boeing, Amazon and Starbucks are all within 20 miles. The ski areas of the neighboring Cascade Mountains are an easy 40 freeway minutes to the east.</p>
+<p>The Klahanie community is well situated. We are near several major employers, yet the Cascade Mountains are only a 40-minute drive east. The Costco world headquarters are four miles away. Microsoft, Boeing, Amazon, and Starbucks are all within 20 miles.</p>
 
-<p>Due to this highly attractive location and the allure of multiple international companies, Klahanie has also become a comfortable and safe place to live and raise a family for international staff working for these companies. This has created a welcoming attitude for new residents and a refined sense of community that makes Klahanie a special place for kindred spirits regardless if they originally came from India, Ireland, China or just down the road.</p>
+<p>Over the years, Klahanie has become a comfortable and safe place to live and raise a family. We are thrilled to welcome international residents who work  for the large corporations in our area, as well as families who have made the Pacific Northwest their home for generations. Our wonderfully diverse population gives residents a unique sense of community where we are likely to find kindred spirits from all over the world.</p>
 
-<p>Should there be a need for medical help, the renowned Swedish Medical Center and hospital is five minutes away. Shopping opportunities- of course! Right along with restaurants, movies theaters and water sports on nearby Lake Sammamish.</p>
+<p>Other ammenities abound! The renowned Swedish Medical Center and hospital is only five minutes away, and we are fortunate to have shopping, restaurants, movies theaters, and Lake Sammamish State Park all within an easy drive.</p>
 
 </div>
 
@@ -36,8 +36,7 @@ video-banner: /images/klahanie-intro.mp4
 					<h2 class="white">Klahanie Neighborhoods</h2>
 				</div>
 				<div>
-					<p class="white">Klahanie consists of 28 neighborhoods, each with slightly different housing designs, offering single family or
-							condo homes and near by amenities.</p>
+					<p class="white">Klahanie consists of 28 neighborhoods. Each single family or condo home neighborhood features different housing designs and nearby amenities.</p>
 				</div>
 				<div data-animationoffset="100%" style="margin-top:0px;margin-bottom:60px;">
 					<div style="border-color:rgba(255,255,255,0);">

@@ -6,7 +6,7 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: "/images/neighborhoods/tanglewood.jpg"
-description: Tanglewood is a multi-family development with 128 condos. It s located next to the Powerline walking trail and across from the King County Park and Challenger Elementary School.
+description: Tanglewood is a multifamily development with 128 condos. The Tanglewood community is located next to the Klahanie Powerline Trail and across SE Klahanie Boulevard from the Klahanie Park and Challenger Elementary School.
 ---
 Tanglewood is a multi-family development with 128 condos. It s located next to the Powerline walking trail and across from the King County Park and Challenger Elementary School.
 

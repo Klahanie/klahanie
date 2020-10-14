@@ -1,55 +1,41 @@
 ---
 layout: default
-title: Buying or Selling a Home
+title: Buying or Selling Your Home
 date: 2015-03-12 14:10
 author: Klahanie
 comments: true
 categories: []
 show-title: true
 ---
-#### Escrow Professionals
 
-##### Resale Demand/Certificates
-Klahanie uses [CondoCerts](https://www.condocerts.com) to handle Resale Demand/Certificates. This should always be done before the close of the property. For all sales, please order the Full Resale Demand Package. Please follow the steps below to order.
+#### Resale Demand/Certificates
+Klahanie uses [CondoCerts](https://www.condocerts.com) to handle Resale Demand/Certificates. Klahanie sellers must go through CondoCerts in order to ensure proper transfer of ownership. Following the steps below, owners should order the Full Resale Demand Package before the sale closes. 
 
-1. Go to [CondoCerts](https://www.condocerts.com) and create an account (if you don't have one already).
+1. Register or Sign in at [CondoCerts.com](https://www.condocerts.com)
 2. Search for the Klahanie Association
 3. Order the Full Resale Demand Package
-4. Provide all the requested information.
+4. Provide the requested information
 5. Submit
 
-Once submitted, the Association will receive email notification and, in turn, will go in and approve the Resale Demand Request. Approval usually takes within 12 to 24 hours of submittal.
+The KHOA receives email notification when an order is submitted and will approve the resale demand request. The requester receives email notification as soon as the request is approved and can then log into CondoCerts.com to retrieve the requested information.
 
-Once approved the requester will receive email notification of the approval. At that point, the requester can log into condocerts.com and retrieve all the requested information.
+#### Condominiums and Townhomes
+For condos and townhomes in Klahanie, you should order two separate Resale Demands/Certificates: one for the condominum or subassociation and one for the Klahanie Association. Both of these demands must be ordered or the transfer of ownership will not take place. Contact the condo or townhome management company to find out how to order a demand. The Klahanie Homeowners Association questionnaire provides general Klahanie information and does not include property-specific information. 
 
-All sales/transactions that take place within Klahanie must go through this service in order to ensure proper transfer of ownership. 
+Email [info@klahanie.com](mailto:info@klahanie.com) or call (425) 392-4663 with questions. Please call CondoCerts customer service at (800) 310-6552 with specific questions about the CondoCerts website or your order.
 
-For questions, contact [Klahanie](mailto:info@klahanie.com) or call [425-392-4663](tel:425-392-4663)
+#### Governing Documents
 
-<div class="alert alert-warning">
-For all Condos or Townhomes in Klahanie, you must order 2 separate Resale Demands/Certificates: one for the condominum or sub-association and one for the Master Association (Klahanie Association). Both these Demands must be ordered or the transfer of ownership will noot take place. 
-</div>
+This website is a comprehesive resource for questions about buying or selling property in Klahanie. Feel free to browse the site and send us email at <a href="mailto:info@klahaine.com">info@klahanie.com</a> or call (425) 392-4663 if you have any questions. Please read and share our governing documents with any buyers who are interested in purchasing in Klahanie. Go to [The Association Overview]({{site.url}}/association.html) page for links to the Klahanie governing documents.</h3>
 
-For information of where to order a demand from each sub-association, you will need to contact their specific management company. 
+#### Sign Information
 
-The Association Questionnaire will only provide Association information and no information specific to the property. Should you have any trouble with the site or your order, please call Condocerts directly at (800) 310-6552 to speak with customer service.
-
-#### Real Estate Professionals
-
-##### Governing Documents
-
-This website is designed to be a one stop shop for any questions or information you may need regarding buying or selling in Klahanie.   Feel free to browse through site, visit the FAQ's, send us and email at <a href="mailto:info@klahaine.com">info@klahanie.com</a> or give us a call at 425-392-4663 should you have any more questions!  Please take some time to read over and share our Governing Documents list with any prospective buyers you have that are interested in purchasing a home in Klahanie. Go to [The Association]({{site.url}}/association.html)page for an overview and links to the Governing Documents.</h3>
-##### Sign Information
-
-The Klahanie Rules and Regulations require Real Estate Professionals to acquire Klahanie specific signs. Please contact Sign Pros at [425-885-3204](tel:425-885-3204) or visit their [website](http://www.signpros.net/). Regular "Open House" A-boards are allowed provided they are placed in a spot that does not disrupt landscaping or the traffic of walkers/drivers.
+The Klahanie Rules and Regulations require real estate agents to use Klahanie-specific signs. Agents can contact Sign Pros at (425) 885-3204 or visit the [Sign Pros website](http://www.signpros.net/) to order their signs. When holding an open house, please make sure that open House A-board signs are away from landscaping and clear of pedestrian, bike, or car traffic.
 
 #### Assessments 
-All units (single family &amp; multi-family) within Klahanie are required to pay quarterly assessments to the Klahanie Association.  As of January 1, 2015 the assessments are $800 a year for each household and are paid on a quarterly basis of $200 on the 1st of the month in January, April, July, and October.  Statements are sent out as a courtesy. This may be subject to change at the discretion of the Board of Directors. Please refer to our [Assessment and Collection Policy]({{site.url}}/files/assessment_payment_and_collection_policy.pdf) for more information regarding Assessment payments or contact [Klahanie](mailto:info@klahanie.com).
+Owners of all Klahanie homes, condos, and townhomes need to pay quarterly dues to the Klahanie Association. Currently, the assessments for each household are $800/year. These due are paid in $200 quarterly installments, on the first of January, April, July, and October. For more information regarding quarterly payments, visit our [Assessment and Collection Policy]({{site.url}}/files/assessment_payment_and_collection_policy.pdf) page, or contact the Klahanie office at [info@klahanie.com](mailto:info@klahanie.com) or (425) 392-4663.
 
-For Sub-associations, there are 2 separate Assessments that must be paid. Sub-association Assessments need to be paid separately to their management agent. Please contact your sub-association for more information.
+Owners belonging to a condo or townhome subassociation pay two separate assessments. Subassociation dues should be paid directly to the subassociation management company. Please contact your subassociation for more information.
 
-#### Mortgage Professionals
-
-##### Certificate of Insurance or Evidence of Coverage
-Please send all requests to Nicholson and Associates, LLC.  Email: <a href="mailto:mail@nichinsure.com">mail@nichinsure.com</a> or FAX: 360-943-9712. Please allow 24 hours to receive the requested Certificate. Nicholson &amp; Associates cover the Association's common areas.  Should you be requesting insurance for a condo or town home, you will need to contact the sub-association's managing agent.
-
+#### Certificate of Insurance or Evidence of Coverage
+Please send requests for a Certificate of Insurance or Evidence of Coverage to Nicholson &amp; Associates, LLC (e-mail: <a href="mailto:mail@nichinsure.com">mail@nichinsure.com</a> or fax: (360) 943-9712) and allow 24 hours to receive your certificate.  Nicholson &amp; Associates cover the association's common areas. If you need proof of insurance for a condo or townhome, contact the subassociation's management company.

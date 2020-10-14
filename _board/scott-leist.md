@@ -6,5 +6,5 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: /images/board/scott-leist.jpg
-bio: 'Term expires: 2023'
+bio: 
 ---

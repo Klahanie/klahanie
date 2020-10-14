@@ -8,16 +8,14 @@ categories: [association]
 banner: /images/Rental-House.jpg
 show-title: true
 ---
-Each owner who plans to rent their home needs to understand the steps to be taken to protect yourself before the rental agreement is started.
+Before you rent your home, it is important that you follow these three steps.
 
-Carefully read the [Rules and Regulations]({{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf) Section 4.11 Rental Properties. You as the home owner are financially responsible for any fines your renter may incur due to not abiding by the the Rules and Regulations.
+<ol type = "1">
+<li>Carefully read the [Rules and Regulations]({{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf) (Section 4.11 Rental Properties). If your renter incurs fines from failure to comply with the Klahanie Homeowners Association (KHOA) Rules and Regulations, you, as the home owner, are financially responsible.</li.>
+<li>Complete the [Rental Registration Form]({{site.url}}/files/Rental-Letter.pdf) and return the form to the KHOA office. By filling out the Rental Registration Form, you are letting KHOA staff know that you have renters, and you are providing the renters' names and contact information. If you are using a property mangament firm, include their contact information.</li> 
+<li>Send a copy of the lease to the KHOA office so your renters are entered in the KHOA records. (Pool passes can be arranged once this step is complete.)</li>
+</ol>
 
-Complete the [Rental Registration Form]({{site.url}}/files/Rental Business Registration.docx).This form is a requirement and alerts the KHOA staff that you have renters in the home and provides their names, contact information and a copy of the lease so that they can entered in the administrative records and passes to the two pools can be arranged for them.
+Remember to keep your mailing address and contact information up-to-date at the KHOA office, in case your tenant receives a fine or other communication mailed to your address. 
 
-If you have a Property management firm managing the home for you, please include their contact information. This allows our Compliance staff to contact them in case of compliance issues before they become subject to fines.
-
-It is critical that you always keep your mailing address and contact information current. One important thing to remember, if your tenant receives a fine and it is mailed to your address and you don’t respond because the address is not current, you will still owe the fine and may also be receiving a $20 a day fee for not responding.
-
-If you do not complete the Registration form and rent your home without notifying the KHOA you will receive a fine. By the end of 2019, the fee will be $500. Also renters living in an unregistered home will not be able to use the Klahanie amenities, including the pools until the home is registered.
-
-Most fines for noncompliance to Klahanie rules comes from lack of yard maintenance. The Fines Committee how has the option for repeat offenders to require the owner to contact with a professional landscaping firm for 12 months to ensure that your rental home is properly maintained.
+If you do not complete the Rental Registration Form and rent your home without notifying the KHOA, you will receive a $500 fine. Renters living in an unregistered home will not be able to use the Klahanie amenities until the home is registered.
