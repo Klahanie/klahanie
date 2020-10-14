@@ -6,16 +6,12 @@ author: Klahanie
 comments: true
 categories: [clubs]
 link: true
-description: Even if you have a small yard, you can keep a garden at the Klahanie Pea Patch. 
+description: Enjoy working outdoors and tending your own garden at the Klahanie Commumity Pea Patch. 
 banner: /images/Pea-Patch-Sign.jpg
 thumbnail: /images/Pea-Patch-Sign.jpg
 ---
-If you enjoy growing things but lack the space to do as much as you would like, pea patch gardening might be the answer for you. Pea patch gardening is a marvelous opportunity to enjoy the company of other people who like to work the soil, and to have fun producing something to show for your efforts.
+If you would like more space to grow plants and work outdoors, pea patch gardening is a wonderful option. Residents who are part of the Klahanie Community Pea Patch have fun working alongside each other, tending their plot, and growing a bountiful crop.
 
-The Pea Patch is used for recreational vegetables and flower gardening for family use and also for growing vegetables for local charities. It's located down the gravel road behind Sundance and is run by volunteers who live in Klahanie. It is open to all Klahanie residents, and plots can be rented annually for a small fee.
+The Klahanie Pea Patch is used recreationally, to grow vegetables and flowers for families and local charities. The patch is down the gravel road behind the Sundance condominiums and is run by volunteers who live in Klahanie. Participation is open to all Klahanie residents. The active growing season is from April 1st through October 31st. A full-size pea patch plot is approximately 10’ x 20’ and rents for $50. A half plot is approximately 10’ x 10’ and rents for $25.
 
-The active growing season is from April 1<sup>st</sup> through October 31<sup>st</sup>. However, growing year round is an option for those who wish.
-
-A full size plot is approximately 10’ x 20’ and rents for $50. A half plot is approximately 10’ x 10’ and rents for $25.
-
-If you would like more information on the Klahanie Pea Patch, contact [Lori](mailto:goerlitz@comcast.net) and she will email you the information needed to sign up for a plot.
+[Email Lori](mailto:goerlitz@comcast.net), if you would like more information on the Klahanie Community Pea Patch.

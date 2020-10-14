@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Neighborhoods
+title: Klahanie Neighborhoods
 date: 2019-07-23 21:12
 author: Klahanie
 categories: []
@@ -8,7 +8,7 @@ show-title: true
 ---
 
 {% for doc in site.neighborhoods %}
-{% if doc.title != "Neighborhoods" %}
+{% if doc.title != "Klahanie Neighborhoods" %}
 <div class="row mb-4">
   <img class="img-thumbnail col-lg-2 col-md-5 col-sm-12" src="{{site.url}}/{{doc.thumbnail}}">
     <div class="col-lg-10 col-md-7 col-sm-12">

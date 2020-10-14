@@ -6,6 +6,6 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: "/images/neighborhoods/winslow-place.jpg"
-description: Winslow Place has 106 single family homes, and contains a park with a play structure with an open field area and a green belt area on three sides of the park. This area is within easy walking distance of the Mountainview Pool and park area that contains a pool, play structure, two tennis courts, a basketball court, a pickle ball court, the Powerline walking trail and a Park and Ride area.
+description: Winslow Place has 106 single family homes. Residents enjoy a park with a play structure and an open recreational space; the park is surrounded by a green belt on three sides. This neighbothood is within easy walking distance of the Mountainview Park, which has a pool, play structure, basketball court, pickleball court, two tennis courts, a Park and Ride area, and access to the Klahanie Powerline Trail. 
 ---
 <object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/winslow-place.svg" class="img-fluid"/>

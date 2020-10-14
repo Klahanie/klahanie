@@ -9,5 +9,5 @@ bio: 'Committees: ACC<br>Term expires: 2021'
 ---
 
 <h2><strong>Sara Lanis</strong></h2>
-Term Expires: 2021
+<i>Term runs –2021</i>
 

@@ -6,6 +6,6 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: "/images/neighborhoods/highland-gardens.jpg"
-description: Highland Gardens is a privately owned 51 unit apartment community. It is located across from the QFC shopping center and commercial area of Klahanie.
+description: Highland Gardens is a privately owned 51-unit apartment community. It is located across Klahanie Drive SE from Klahanie's shopping center and commercial area.
 ---
 <object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/highland-gardens.svg" class="img-fluid"/>

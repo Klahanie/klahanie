@@ -8,7 +8,7 @@ categories: [announcements]
 show-title: true
 ---
 
-Due in part to the Coronavirus and the Governor's announcement, the Board is having an Emergency Meeting this Saturday at 1:00 p.m. The meeting will be totally remote, but open to residents. The Zoom conferencing software will be used to provide access to the open public portion of the meeting. This is designed for video as well as phone in connections. The session is currently allocated for the 1:00 p.m. start and close before 2:30 p.m.
+Due in part to the coronavirus and the governor's announcement, the board is having an emergency meeting this Saturday at 1:00 p.m. The meeting will be totally remote but open to residents. The Zoom conferencing software will be used to provide access to the open public portion of the meeting; Zoom is designed for video as well as phone calls. The session is currently set to begin at 1:00 p.m. and will close before 2:30 p.m.
 
 #### You are invited to a Zoom webinar.
 

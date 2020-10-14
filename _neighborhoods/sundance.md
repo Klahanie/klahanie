@@ -6,6 +6,6 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: "/images/neighborhoods/sundance.jpg"
-description: Sundance has 158 condos. It is located at the intersection of Klahanie Drive, Klahanie Boulevard and 256th Ave SE. It is very close to the community Pea Patch where homeowners can grow their own vegetables and flowers.
+description: The Sundance communiity has 158 condos and is located near the Klahanie Community Pea Patch, Klahanie Park, and the SE Issaquah-Beaver Lake Road entrance to Klahanie.
 ---
 <object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/sundance.svg" class="img-fluid"/>

@@ -11,12 +11,13 @@ banner: /images/shark-swim-banner.gif
 thumbnail: /images/shark-swim-banner.gif
 description: The Klahanie Sharks are a fun swim league for kids aged 8 to 18.
 ---
-The Klahanie Association is proud to partner with the the Klahanie Swim Team to provide a great opportunity for Klahanie youth to participate in team sports. The Klahanie Swim Team is a member of the 26-Team, Midlakes Summer Swim League. We seek to provide a competitive, yet fun and relaxed, swimming environment for young swimmers.
+The Klahanie Swim Team (KST) began, at Klahanie’s Mountainview Pool, in 1987 with 11 swimmers.  They have operated each spring and summer since then, with more than 6,000 Klahanie swimmers participating. Stop by the Mountainview Pool office to see team photos from more than three decades and experience a little KST history.
 
-Klahanie Swim Team offers swimmers between 5 and 18 years of age a fun way to get exercise while swimming with others of the same age. Although swimming is an individual sport, participating on a swim team helps create an enthusiasm for swimming that is hard to achieve by just swimming alone. The Klahanie Swim Team promotes team building skills, friendliness, and sportsmanlike conduct among teammates and opponents.
+The Klahanie Swim Team is a member of the 26-team Midlakes Swim League and provides a competitive swimming environment for 200 young Klahanie swimmers, ages 5–18, from May through July each year. The team is open to Klahanie residents only and is a terrific way to meet your neighbors, serve your community, and have your children improve their swim skills in a recreationally competitive environment. KST hosts seven home swim meets at the Mountainview Pool during the summer, and our swimmers travel to other local league pools to compete each week. Residents and visiting teams can purchase dinner and snacks at The Shark Café during each home meet. 
 
-Klahanie Swim Team is a competition where swimmers race at meets against other swimmers of their own age group. The swim meets emphasize fun and personal improvement. Success isn’t necessarily winning, but is about hard work and doing your best. The Klahanie Swim Team helps teach that competition, winning, and losing are all part of life. There are 5 boys and girls age brackets: 8, 10, 12, 14 and under, and 15 and over.
+The KST meets are held at Klahanie's Mountainview Pool - 4280 Klahanie Drive SE, Issaquah, WA 98029.
+The Klahanie Swim Team mailing address is 4580 Klahanie Dr SE #172, Issaquah, WA 98029.
 
-The Klahanie Homeowners Association is equipped with two, four-lane, 25-meter competition pools. Practices are held daily from Memorial Day through July. Klahanie Swim Team coaches and lifeguards are also available throughout the swim season for private, semiprivate, and group lessons.
+The team is managed by a volunteer board of directors and a working committee that oversees team operations. Each swimmer's family must volunteer 10–12 hours during every season to support the team. 
 
-[Learn more about the Klahanie Swim Team](https://www.teamunify.com/Home.jsp?team=recmskswa)
+Please visit the [KST website](https://www.teamunify.com/Home.jsp?team=recmskswa) for the season calendar, information about tryout dates, and the team practice schedule. If you have any questions, email <a href="mailto:sharks@klahanieswimteam.org">sharks@klahanieswimteam.org</a>.

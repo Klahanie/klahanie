@@ -6,29 +6,19 @@ author: Klahanie
 comments: true
 categories: [clubs]
 link: true
-description: Neighborhood Watch helps us keep our property safe. 
+description: Neighborhood Watch helps us keep Klahanie safe. 
 thumbnail: /images/Neighborhood-Watch.png
 banner: /images/family-playing-outdoors.jpg
 ---
 ### Neighborhood Watch and Emergency Preparedness 
 
-<blockquote class="blockquote">If You See Something, Say Something</blockquote>
+Neighborhood Watch (NW) groups promote the safety and well-being of their Klahanie neighborhoods. 
 
-<img src="{{site.url}}images/Neighborhood-Watch.png" class="float-right w-20">
-**Neighborhood Watch (NW) begins when you and your neighbors. **
+Emergency Preparedness (EP) helps NW clusters prepare their households for emergencies, such as earthquakes, tsunamis, and fire, by managing the contact information of participating neighbors and storing a supply of water, food, blankets, medications, flashlights, and other emergency supplies. 
 
-If you are interested in starting a neighborhoow watch program in your area, host a block party and:
-* A representative from NW/EP will provide a 3-minute explanation and invite one of you to serve as your NW/EP
-* You’ll be invited to add your name, phone number, e-mail, address to your e-directory of participating neighbors
-* You’ll receive a neighborhood watch decal to place in a window at the front of your house
-* As a participant, you are choosing to be “another set of eyes” regarding your neighbor’s home/property/well-being
+If you are interested in promoting a sense of community and safety in your Klahanie neighborhood, contact us about starting a Neighborhood Watch program. As a first step, host a socially distanced NW/EP block party. 
+* A representative from NW/EP will provide a short explanation and ask one of you to serve as NW/EP liaison in your neighborhood.
+* Residents will be invited to add their names, phone numbers, e-mail addresses, and residential addresses to the NW/EP directory of participating neighbors.
+* Participants will receive a Neighborhood Watch decal to place in a window at the front of their homes.
 
-**Emergency Preparedness (EP) helps Neighborhood Watch (NW) clusters prepare their households for emergencies -- earthquakes, tsunamis, fire, etc.) by**
-* Obtaining emergency water/food, blankets, medications, flashlights, etc.
-* Being available to assist one another in the neighborhood in time of need because we have names, addresses, phones, e-mails, etc.
-
-**We’d like all of Klahanie’s neighborhood clusters to be active in Neighborhood Watch/Emergency Preparedness.**
-
-Neighborhood Watch/Emergency Preparedness is supported by the Klahanie Board of Directors, and your participation increases “neighborliness” which always pays great dividends. 
-
-Contact: <a href="mailto:georgeglchrst@gmail.com">George Gilchrist</a>, Klahanie resident and NW/EP representative; <a href="tel:510-207-6972">(510) 207-6972</a>
+For more information, contact NW/EP representative George Gilchrist, Klahanie resident in Lake Pointe, at <a href="mailto:georgeglchrst@gmail.com">georgeglchrst@gmail.com</a> or (510) 207-6972.
