@@ -1,4 +1,6 @@
 **/.DS_Store
 .DS_Store
 _site/
-.sass_cache/
+**/.sass_cache/**
+*.scssc
+.jekyll-cache/**

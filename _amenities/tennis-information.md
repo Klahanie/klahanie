@@ -9,9 +9,6 @@ banner: /images/tennis.jpg
 show-title: true
 ---
 
-<div class="alert alert-warning">
-<strong>NOTE: </strong> Klahanie tennis courts are closed as a result of the COVID-19 pandemic.
-</div>
 
 Stay active, learn a new sport or polish existing skills, and enjoy the outdoors when you take tennis lessons in Klahanie. Youth and adult tennis lessons will run throughout the summer.
 

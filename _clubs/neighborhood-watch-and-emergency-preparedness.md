@@ -16,6 +16,8 @@ Neighborhood Watch (NW) groups promote the safety and well-being of their Klahan
 
 Emergency Preparedness (EP) helps NW clusters prepare their households for emergencies, such as earthquakes, tsunamis, and fire, by managing the contact information of participating neighbors and storing a supply of water, food, blankets, medications, flashlights, and other emergency supplies. 
 
+<img src="{{site.url}}/images/Neighborhood-Watch.png" class="float-right w-20">
+
 If you are interested in promoting a sense of community and safety in your Klahanie neighborhood, contact us about starting a Neighborhood Watch program. As a first step, host a socially distanced NW/EP block party. 
 * A representative from NW/EP will provide a short explanation and ask one of you to serve as NW/EP liaison in your neighborhood.
 * Residents will be invited to add their names, phone numbers, e-mail addresses, and residential addresses to the NW/EP directory of participating neighbors.

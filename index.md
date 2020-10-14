@@ -4,13 +4,13 @@ date: 2015-03-12 14:07
 author: Klahanie
 layout: full-bleed
 categories: []
-video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_to_klahanie-1.mp4
+video-banner: /images/klahanie-intro.mp4
 ---
 <div class="d-flex flex-row flex-wrap">
-  <div class="bignav green"><h4><a href="announcements/">Announcements</a></h4></div>
-  <div class="bignav orange"><h4><a href="association.html">The Association</a></h4></div>
-  <div class="bignav green2"><h4><a href="/neighborhoods/">Neighborhoods</a></h4></div>
-  <div class="bignav blue"><h4><a href="amenities/">Amenities</a></h4></div>
+  <div class="bignav green"><h4><a href="{{site.url}}/announcements/">Announcements</a></h4></div>
+  <div class="bignav orange"><h4><a href="{{site.url}}/association.html">The Association</a></h4></div>
+  <div class="bignav green2"><h4><a href="{{site.url}}/neighborhoods/">Neighborhoods</a></h4></div>
+  <div class="bignav blue"><h4><a href="{{site.url}}/amenities/">Amenities</a></h4></div>
 </div>
 <div class="p-4 row">
 
@@ -28,7 +28,7 @@ video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_
 
 <img src="{{site.url}}/images/KHOA-Color-Map.jpg" class="img-fluid">
 
-<div class="white about-footer" data-bg="http://klahanie.com/wp-content/uploads/2019/03/gradien-kiosk2.jpg">
+<div class="white about-footer" data-bg="{{site.url}}/images/gradien-kiosk2.jpg">
 	<div>
 		<div style="margin-top:0px;margin-bottom:0px;width:30.6666%; margin-right: 4%;">
 			<div style="padding: 0px 0px 0px 15px; background-position: left top; background-repeat: no-repeat; background-size: cover; height: auto;" data-bg-url="">
@@ -40,7 +40,7 @@ video-banner: http://klahanie.com/wp-content/uploads/2020/01/klahanie_come_home_
 				</div>
 				<div data-animationoffset="100%" style="margin-top:0px;margin-bottom:60px;">
 					<div style="border-color:rgba(255,255,255,0);">
-						<a href="http://localhost:4000/neighborhoods/" class="white">Learn More</a>
+						<a href="{{site.url}}/neighborhoods/" class="white">Learn More</a>
 					</div>
 				</div>
 			</div>

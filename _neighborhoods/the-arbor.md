@@ -8,4 +8,6 @@ categories: []
 thumbnail: "/images/neighborhoods/the-arbor.jpg"
 description: The Arbor neighborhood, which borders Challenger Elementary School and Beaver Lake Middle School, has 133 single family homes. The Arbor is close to the Klahanie Community Pea Patch and the SE Issaquah-Beaver Lake Road entrance to Klahanie.
 ---
+The Arbor has 133 single family homes. It borders Challenger Elementary School and Beaver Lake Middle School and is close to the Beaver Lake Road entrance to Klahanie. It is also close to the community Pea Patch where homeowners can grow their own vegetables and flowers.
+
 <object type="image/svg+xml" data="{{site.url}}/images/neighborhoods/the-arbor.svg" class="img-fluid"/>

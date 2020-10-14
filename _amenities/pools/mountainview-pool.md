@@ -7,4 +7,17 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<iframe src="https://calendar.google.com/calendar/embed?src=ltb6cujgnb71ms4k33hjt12j8k%40group.calendar.google.com&amp;ctz=America%2FLos_Angeles" class="w-100 h-100"></iframe>
+
+<div class="alert alert-info">
+
+<b>Note:</b> Mountainview Pool is closed for the season. Please visit Lakeside instead! 
+
+</div>
+
+### Location
+
+<div class="img-fluid img-thumbnail mb-4">
+  <iframe id="gmap_canvas" style="width:100%; height:350px;" src="https://maps.google.com/maps?q=mountainview%20pool%20klahanie&t=k&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+</div>
+
+

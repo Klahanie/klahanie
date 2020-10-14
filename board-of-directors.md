@@ -10,8 +10,12 @@ Our Klahanie Board of Directors each serve three-year terms. They meet remotely 
 
 {% for director in site.board %} <!-- this sorts by date, so you can tweak the date for each director page to tweak the order -->
 <div class="director-row row mb-4">
-    <img class="img-thumbnail col-md-2" src="{{site.url}}/{{director.thumbnail}}">
-    <div class="col-md-10">
+<div class="col-md-4 col-sm-6">
+    {% if director.thumbnail != nil %}
+    <img class="img-thumbnail img-fluid" src="{{site.url}}{{director.thumbnail}}" alt="{{director.title}}">
+    {% endif %}
+    </div>
+    <div class="col-md-8 col-sm-12">
     <h4 class="director-name">
       {{director.title}}
       </h4>

@@ -7,10 +7,11 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<div class="alert alert-warning clearfix">Note: Klahanie Pools are closed due to the COVID-19 pandemic until further notice.
+<div class="alert alert-info">
+  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/pools/covid-guidelines.html">Learn more</a>
 </div>
 
-<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail">
+<img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail" alt="Child at Klahanie pools doing a cannonball">
 
 The Klahanie Homeowner's Association (HOA) operates two 25-meter pools, each with four lanes. Lakeside Pool is open all year. Mountainview Pool is open from Memorial Day weekend through Labor Day. You can find pool schedules, swim lesson information, and pool rules below.
 
@@ -22,6 +23,7 @@ Klahanie residents enjoy exclusive access to the Klahanie pools and aquatics pro
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
 
 ### Contact 
-If you need to contact the pools directly, please call 425-391-8503, for the Lakeside Pool, and 425-557-7856, for the Mountainview Pool.
+If you need to contact the pools directly, please call [(425)391-8503](tel:425-391-8503), for the Lakeside Pool, and [(425) 557-7856](tel:425-557-7856), for the Mountainview Pool.
 
-If you have any questions about job openings at the pools, don't hesitate to [email pools@klahanie.com](mailto:pools@klahanie.com).
+If you have any questions about the pools, don't hesitate to [email pools@klahanie.com](mailto:pools@klahanie.com).
+

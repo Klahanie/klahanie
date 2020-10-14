@@ -1,0 +1,84 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Klahanie Association
+email: info@klahanie.com
+description: "The Klahanie Association is a home owners association on the Sammamish Plateau, situated on the south end of Sammamish, WA, near Issaquah. Klahanie has more than 3000 homes, miles of trails, and two swimming pools. This site has details for homeowners, residents, and potential buyers!"
+url: "https://klahanie.github.io/klahanie" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  klahanie
+github_url: "https://github.com/klahanie/klahanie/"
+branch: "master"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM
+  syntax_highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-paginate-v2
+  - jekyll-github-metadata
+
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Pagination Settings
+pagination:
+  enabled: true
+  per_page: 3
+  offset: 0
+  permalink: '/page/:num/'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
+collections:  
+  announcements:
+    output: true
+    url: announcements
+  staff:
+  board:
+  neighborhoods:
+    output: true
+    url: neighborhoods
+  discounts: 
+    output: true
+    url: discounts
+  clubs:
+    output: true
+    url: clubs
+  amenities: 
+    output: true
+    url: amenities
+  magazine:
+    output: true
+    url: magazine
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+#exclude:
+#  - Gemfile
+#  - Gemfile.lock
+#  - node_modules
+#  - vendor/bundle/
+#  - vendor/cache/
+#  - vendor/gems/
+#  - vendor/ruby/
+#  - .gitignore
+#  - readme.md

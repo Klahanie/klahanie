@@ -20,7 +20,7 @@ As with most legal documents, there is a general hierarchy of governing document
 
 #### Covenants, Conditions, and Restrictions (CC&amp;Rs)
 
-The most important and permanent KHOA document is the <a href="http://klahanie.com/coventants-conditions-restrictions/">Covenants, Conditions, &amp; Restrictions (CC&amp;Rs)</a>. The CC&Rs are tied to each property and define the owner's rights and limitations. A positive vote of two-thirds of Klahanie's 3,090 housing units is required to make a change in the CC&amp;R terms.
+The most important and permanent KHOA document is the <a href="{{site.url}}/files/Klahanie-Association-CCRs-2018.pdf">Covenants, Conditions, &amp; Restrictions (CC&amp;Rs)</a>. The CC&Rs are tied to each property and define the owner's rights and limitations. A positive vote of two-thirds of Klahanie's 3,090 housing units is required to make a change in the CC&amp;R terms.
 
 The CC&amp;Rs
 * Define the portions of the development owned by the individual owners and those owned by the association
@@ -32,7 +32,7 @@ The CC&amp;Rs
 
 #### Articles of Incorporation
 
-Klahanie is a legal not-for-profit corporation. The <a href="http://klahanie.com/certificate-of-incorporation/">Articles of Incorporation</a> provide the terms for our nonprofit status. Our nonprofit status
+Klahanie is a legal not-for-profit corporation. The <a href="{{site.url}}/files/Klahanie-Articles-of-Incorp.pdf">Articles of Incorporation</a> provide the terms for our nonprofit status. Our nonprofit status
 
 * Limits the liability of individual owners, for association actions
 * Entitles the association to the rights granted to all corporations under state law, which is useful for obtaining insurance or bringing suit against another party
@@ -40,7 +40,7 @@ Klahanie is a legal not-for-profit corporation. The <a href="http://klahanie.com
 * Grants the board of directors the same rights as all board members of incorporated entities under state statutes
 
 #### Bylaws
-The Association <a href="http://klahanie.com/klahanie-bylaws/" >Bylaws</a> address topics such as
+The <a href="{{site.url}}/files/Klahanie-Association-Bylaws-2018.pdf" >Association Bylaws</a> address topics such as
 
 * Association membership requirements
 * Membership meeting requirements
@@ -51,8 +51,9 @@ The Association <a href="http://klahanie.com/klahanie-bylaws/" >Bylaws</a> addre
 
 #### Rules and Regulations
 
-Klahanie <a href="http://klahanie.com/klahanie-community-rules-regulations/">Rules and Regulations</a> are approved by the board of directors in order to maintain and enhance Klahanie’s property values, attractiveness, and desirability. The Rules and Regulations also define the process of dealing with rule-based complaints. They can be revised as conditions change. 
+Klahanie <a href="{{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf">Rules and Regulations</a> are approved by the board of directors in order to maintain and enhance Klahanie’s property values, attractiveness, and desirability. The Rules and Regulations also define the process of dealing with rule-based complaints. They can be revised as conditions change. 
 
 #### Architectural Controls
 
-A staff of community volunteers form the mandatory Architectural Control Committee (ACC). The ACC has the authority to enforce the <a href="http://klahanie.com/architectural-controls/">Architectural Controls</a>. Most sections in the Architectural Controls relate to members' homes and yards. In accordance with the Architectural Controls and to enforce consistent standards, owners may be required to submit a permit before any modifications take place.
+A staff of community volunteers form the mandatory Architectural Control Committee (ACC). The ACC has the authority to enforce the <a href="{{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf">Architectural Controls</a>. Most sections in the Architectural Controls relate to members' homes and yards. In accordance with the Architectural Controls and to enforce consistent standards, owners may be required to submit a permit before any modifications take place.
+

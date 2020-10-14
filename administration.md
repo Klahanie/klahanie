@@ -19,5 +19,5 @@ Currently, the annual assessments are $800/year. Most residents elect to pay the
 ### Moving or renting your home? 
 
 * If you are moving, or will be residing in another area - be sure to submit the [Change of Address form]({{site.url}}/files/klahanie-association_change-of-address_2018-ver.pdf)
-* Before you rent your home, you need to let the Association know by submitting a [Rental Letter]({{site.url}}/files/Rental-Letter.pdf)
+* Before you rent your home, you need to let the Association know by submitting a [Rental Letter]({{site.url}}/files/Rental Business Registration.docx)
 

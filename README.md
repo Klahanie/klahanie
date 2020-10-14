@@ -2,6 +2,14 @@
 
 The Klahanie website is a static site which is generated using Jekyll. 
 
+### Setting up a local environment
+We recommend using [Visual Studio Code](https://code.visualstudio.com/) and [GitHub Desktop](https://desktop.github.com/) for your local build environment. 
+* Follow the instructions [here](https://jekyllrb.com/docs/installation/) to install a Ruby development environment
+* Clone this repository using GitHub Desktop.
+* Open a terminal and navigate to the folder you cloned the repository into
+* Run `gem install` to install all of the build dependencies
+* Once this completes successfully you can build and run a local web server by running `bundle exec jekyll serve`
+
 ### Creating announcements
 
 To create a new announcement, add a new file to the _announcements folder following this template. When you add an announcement, it automatically adds it to the announcements page. Be sure to update the date, title, and body. The body follows a format called [Markdown](https://commonmark.org/help/), but you can add html as needed. 
