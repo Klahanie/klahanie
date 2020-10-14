@@ -11,7 +11,7 @@
     
     
     {
-      "title"    : "Administration",
+      "title"    : "KHOA Office",
       "categories" : "association",
       "tags"     : "",
       "url"      : "/administration.html",
@@ -38,7 +38,7 @@
     
     
     {
-      "title"    : "Buying or Selling a Home",
+      "title"    : "Buying or Selling Your Home",
       "categories" : "",
       "tags"     : "",
       "url"      : "/buying-a-home.html",
@@ -74,7 +74,7 @@
     
     
     {
-      "title"    : "Links and resources",
+      "title"    : "Resources",
       "categories" : "sections",
       "tags"     : "",
       "url"      : "/links.html",
@@ -470,7 +470,7 @@
     
     
     {
-      "title"    : "The Summit",
+      "title"    : "Summit",
       "categories" : "",
       "tags"     : "",
       "url"      : "/neighborhoods/the-summit.html",
@@ -479,7 +479,7 @@
     
     
     {
-      "title"    : "Neighborhoods",
+      "title"    : "Klahanie Neighborhoods",
       "categories" : "",
       "tags"     : "",
       "url"      : "/neighborhoods/index.html",
@@ -542,7 +542,7 @@
     
     
     {
-      "title"    : "NAAK / EarthCorps Projects for 2019",
+      "title"    : "NAAK / EarthCorps Projects",
       "categories" : "naak",
       "tags"     : "",
       "url"      : "/clubs/naak/naak-earthcorps-projects-for-2019.html",
@@ -614,7 +614,7 @@
     
     
     {
-      "title"    : "Mountainview Pool",
+      "title"    : "Mountainview Pool Schedule",
       "categories" : "pool",
       "tags"     : "",
       "url"      : "/amenities/pools/mountainview-pool.html",
@@ -767,7 +767,7 @@
     
     
     {
-      "title"    : "Mountainview Pool",
+      "title"    : "Mountainview Pool Schedule",
       "categories" : "pool",
       "tags"     : "",
       "url"      : "/amenities/pools/mountainview-pool.html",
