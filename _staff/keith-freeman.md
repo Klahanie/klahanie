@@ -6,7 +6,7 @@ author: Klahanie
 comments: true
 categories: []
 thumbnail: /images/staff/keith-freeman.png
-position: Director of Sports & Recreation
+position: Sports & Recreation Manager 
 email: keith.freeman@klahanie.com
 ---
 Keith joined our team in November of 2020 and has dove right in! Every pun intended!
