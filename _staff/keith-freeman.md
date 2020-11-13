@@ -5,7 +5,7 @@ date: 2019-04-01 00:00
 author: Klahanie
 comments: true
 categories: []
-thumbnail: /images/staff/keith-freeman.jpg
+thumbnail: /images/staff/keith-freeman.png
 position: Director of Sports & Recreation
 email: keith.freeman@klahanie.com
 ---
