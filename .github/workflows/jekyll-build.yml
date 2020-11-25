@@ -20,7 +20,6 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-
     - name: Install environment
       uses: ruby/setup-ruby@v1.52.0
       with:
@@ -30,11 +29,13 @@ jobs:
     - name: Build Jekyll
       run: |
         bundle exec jekyll build --config _config.staging.yml
+        
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         publish_dir: ./_site
+
     - name: Deployment Action
       # You may pin to the exact commit or the version.
       # uses: chrnorm/deployment-action@0a0479c8ab41cd336ddc266342ca0a1c54727a72
