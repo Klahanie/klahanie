@@ -20,5 +20,8 @@ jobs:
         bundler-cache: true
         ruby-version: 2.7 
         
+    - name : Install html-proofer
+      run: gem install html-proofer
+        
     - name: Run tests
       run: rake test
