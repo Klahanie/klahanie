@@ -1,7 +1,7 @@
 ---
 layout: default
 title: KHOA Office Re-Opens
-date: 2019-11-16 09:16
+date: 2020-11-16 09:16
 author: Klahanie
 comments: true
 categories: [announcements]
