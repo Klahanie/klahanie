@@ -20,9 +20,6 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: actions/checkout@v2
 
-    - name: Ruby setup
-      uses: actions/setup-ruby@v1.0.0
-
     - name: Bundle install
       run: | 
         gem install bundler 
