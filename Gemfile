@@ -24,6 +24,7 @@ group :jekyll_plugins do
   gem "jekyll-github-metadata"
   gem "html-proofer"
   gem "jekyll-paginate-v2"
+  gem "html-proofer"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
