@@ -22,13 +22,16 @@ jobs:
     - name: Ruby setup
       uses: actions/setup-ruby@v1.0.0
 
-    - name: Bundle install
-      run: | 
-        gem install bundler 
-        bundle install
+    - name: Install environment
+      uses: ruby/setup-ruby@v1.52.0
+      with:
+        bundler-cache: true
+        ruby-version: 2.7 
+        
     - name: Build Jekyll
       run: |
         bundle exec jekyll build --config _config.release.yml
+        
     - name: ftp-action
       uses: sebastianpopp/ftp-action@v2.0.0
       with:
@@ -40,6 +43,7 @@ jobs:
         forceSsl: true
         localDir: ./_site
         remoteDir: .
+        
     - name: Deployment 
       # You may pin to the exact commit or the version.
       # uses: chrnorm/deployment-action@0a0479c8ab41cd336ddc266342ca0a1c54727a72
