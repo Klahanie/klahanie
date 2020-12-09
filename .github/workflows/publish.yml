@@ -22,7 +22,6 @@ jobs:
     - name: Install environment
       uses: ruby/setup-ruby@v1.52.0
       with:
-        bundler-cache: true
         ruby-version: 2.7 
         
     - name: Build Jekyll
