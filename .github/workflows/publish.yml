@@ -48,8 +48,6 @@ jobs:
       with:
         # Initial status for the deployment
         initial_status: 'success'
-        # The reference for the deployment
-        ref: # optional
         # Github repository token
         token: ${{ secrets.GITHUB_TOKEN }}
         # Target url location
