@@ -8,8 +8,6 @@ categories: [pool]
 show-title: true
 ---
 
-### COVID-19 SWIM GUIDELINES
-
 During Phase 2, lap swim, open swim, swim lessons, and competition swim training are allowed with specific restrictions. Please note that the locker rooms are not available for showering or changing. The locker rooms will remain locked except when a restroom is needed.
 
 Lap Swim 
