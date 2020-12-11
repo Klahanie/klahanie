@@ -43,6 +43,7 @@ jobs:
       with:
         # Github repository token
         token: ${{ secrets.GITHUB_TOKEN }}
+        initial_status: success
         # Target url location
         target_url: 'https://klahanie.github.io/klahanie'
         # Descriptive message about the deployment
