@@ -16,7 +16,7 @@ show-title: true
 ### Location
 
 <div class="img-fluid img-thumbnail mb-4">
-  <iframe class="w-100" style="height:350px;" id="gmap_canvas" src="https://maps.google.com/maps?q=lakeside%20pool%20klahanie&t=k&z=19&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+  <iframe class="w-100" style="height:350px;" id="gmap_canvas" src="https://teamup.com/kscbjoud5vviuv7wvj" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
 </div>
 
 ### Schedule
