@@ -21,4 +21,4 @@ show-title: true
 
 ### Schedule
 
-<iframe class="w-100" style="height:800px;" src="{{site.url}}/images/Lakeside Schedule.pdf"></iframe>
+<iframe class="w-100" style="height:800px;" src="https://teamup.com/kscbjoud5vviuv7wvj"></iframe>
