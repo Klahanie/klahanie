@@ -50,3 +50,12 @@ jobs:
         description: 'Deployed $GITHUB_SHA to staging'
         # The name of the environment for the deployment
         environment: Staging
+    - name: PR Comment
+      uses: mshick/add-pr-comment@v1
+      with:
+        message: |
+            Your build has been completed and published to [staging](https://klahanie.github.io/klahanie). 
+            
+            Please validate your changes, and review following these [instructions](https://docs.github.com/en/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/reviewing-changes-in-pull-requests).
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        allow-repeats: false # This is the default
