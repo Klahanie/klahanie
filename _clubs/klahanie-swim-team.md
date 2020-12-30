@@ -15,7 +15,7 @@ The Klahanie Association is proud to partner with the the Klahanie Swim Team to 
 
 Klahanie Swim Team offers swimmers between 5 and 18 years of age a fun way to get exercise while swimming with others of the same age. Although swimming is an individual sport, participating on a swim team helps create an enthusiasm for swimming that is hard to achieve by just swimming alone. The Klahanie Swim Team promotes team building skills, friendliness, and sportsmanlike conduct among teammates and opponents.
 
-Klahanie Swim Team is a competition where swimmers race at meets against other swimmers of their own age group. The swim meets emphasize fun and personal improvement. Success isn’t necessarily winning, but is about hard work and doing your best. The Klahanie Swim Team helps teach that competition, winning, and losing are all part of life. There are 5 boys and girls age brackets: 8, 10, 12, 14 and under, and 15 and over.
+Klahanie Swim Team is a competition where swimmers race at meets against other swimmers of their own age group. The swim meets emphasize fun and personal improvement. Success isn’t necessarily winning, but is about hard work and doing your best. The Klahanie Swim Team helps teach that competition, winning, and losing are all part of life. There are 5 boys and girls age brackets: 8, 10, 12, 14 and under, and 15 and over.
 
 The Klahanie Homeowners Association is equipped with two, four-lane, 25-meter competition pools. Practices are held daily from Memorial Day through July. Klahanie Swim Team coaches and lifeguards are also available throughout the swim season for private, semiprivate, and group lessons.
 
