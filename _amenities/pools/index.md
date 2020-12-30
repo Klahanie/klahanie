@@ -19,7 +19,7 @@ show-title: true
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
 
 
-The Klahanie Association operates two 25-meter Pools with four lanes. Lakeside Pool is open year-round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you'll find detailed information below.
+The Klahanie Association operates two 25-meter Pools with four lanes. Lakeside Pool is open year-round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you'll find detailed information below.
 
 Every Klahanie resident is permitted to enjoy the Klahanie pools and to participate in the aquatics programs. Since the pools are a privilege for Klahanie residents only, please register yourself at the HOA office prior to your first visit to the Pool. HOA office hours are Monday - Thursday 8:30 a.m. - 5:00 p.m. and Friday 9 a.m. - 4 p.m.
 

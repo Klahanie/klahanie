@@ -16,16 +16,16 @@ NAAK is a volunteer group of Klahanie residents committed to keeping Klahanie's 
 
 ### What's happening now
 
-* The Native Plant Demonstration Garden (across from Klahanie Park) is undergoing rejuvenation. Plant labels have been added and selective pruning has provided improved definition between the plants.  Over 50 sword ferns were donated by the Sammamish Native Plant Stewards and planted for diversity.  Soon, additional mulch will be spread to retard the growth of weeds and grasses. Spring and summer will be an excellent time to visit the garden and enjoy the plant varieties and blooms.
-* Many projects will soon be underway to control noxious weeds in our natural areas. Noxious weeds can decrease the biodiversity of native ecosystems, reduce water quality, and threaten wildlife habitat.  These plants tend to reproduce quickly, lack predators, and are difficult to control without a dedicated and ongoing commitment of stewardship.
+* The Native Plant Demonstration Garden (across from Klahanie Park) is undergoing rejuvenation. Plant labels have been added and selective pruning has provided improved definition between the plants.  Over 50 sword ferns were donated by the Sammamish Native Plant Stewards and planted for diversity.  Soon, additional mulch will be spread to retard the growth of weeds and grasses. Spring and summer will be an excellent time to visit the garden and enjoy the plant varieties and blooms.
+* Many projects will soon be underway to control noxious weeds in our natural areas. Noxious weeds can decrease the biodiversity of native ecosystems, reduce water quality, and threaten wildlife habitat.  These plants tend to reproduce quickly, lack predators, and are difficult to control without a dedicated and ongoing commitment of stewardship.
 * Wood ducks are currently checking out boxes at Gander Pond for spring nesting. If you would be willing to volunteer, we’re pretty sure Klahanie ducks would appreciate their nesting boxes being kept clean and secure.
-* A Native Plant Pollinator Habitat will be created behind the Native Plant Demonstration Garden. Site preparation will begin in March with plantings in the fall.  These native plants will provide beauty and nectar for pollinators including hummingbirds, native bees, butterflies, and moths.
+* A Native Plant Pollinator Habitat will be created behind the Native Plant Demonstration Garden. Site preparation will begin in March with plantings in the fall.  These native plants will provide beauty and nectar for pollinators including hummingbirds, native bees, butterflies, and moths.
 * If you are curious about what EarthCorps will be doing around your neighborhood or favorite hiking trails this spring, summer, and fall, check out the NAAK / EarthCorps Projects for 2019 link below.
 * If you are interested in joining the club and/or willing to pitch in for a few hours, please contact the [Klahanie HOA](mailto:info@klahanie.com) to let them know of your interest and availability. They will have a NAAK member get in touch with you.
 
 ### NAAK Mission
 
-NAAK functions in a stewardship capacity for Klahanie’s natural areas.  These natural areas are a major portion of Klahanie's 300 acres of open space. The vast majority of these areas are designated "Native Growth Protection Areas" (NPGAs), which means no native growth can be removed or disturbed, and no structures can be built.
+NAAK functions in a stewardship capacity for Klahanie’s natural areas.  These natural areas are a major portion of Klahanie's 300 acres of open space. The vast majority of these areas are designated "Native Growth Protection Areas" (NPGAs), which means no native growth can be removed or disturbed, and no structures can be built.
 
 NAAK works closely with the Klahanie Association Director, recommending projects and activities to support:
 

@@ -19,14 +19,14 @@ Admission to the pool may be denied for any of the following reasons:
 
 Children under 5 years old or non-swimmers must be supervised by a responsible person, who is in the water and remains within arms reach of the child at all times.
 
-No person unable to swim across the pool may use the pool unattended.  Any adult or child may have to demonstrate his/her swimming ability before entering deep water.
+No person unable to swim across the pool may use the pool unattended.  Any adult or child may have to demonstrate his/her swimming ability before entering deep water.
 
-Any child in a life jacket must be accompanied by an adult in the water, within arms reach.  No one in a life jacket will be allowed in the deep end or to use the slide. LIFE JACKETS MUST BE U.S. COAST GUARD APPROVED.  There is a stamp on the inside of the life jacket to show that it is CG Approved.
+Any child in a life jacket must be accompanied by an adult in the water, within arms reach.  No one in a life jacket will be allowed in the deep end or to use the slide. LIFE JACKETS MUST BE U.S. COAST GUARD APPROVED.  There is a stamp on the inside of the life jacket to show that it is CG Approved.
 
 * Infants/children not toilet trained must wear swim diapers under swim suits in order to prevent contamination.
 * Children must have their diapers changed on changing tables in the locker rooms.
 * Everyone must take a cleansing shower before using the pool.
-* All accidents should be reported to the lifesaving personnel immediately.  A first aid kit is available in the guard office.
+* All accidents should be reported to the lifesaving personnel immediately.  A first aid kit is available in the guard office.
 * In case of emergency, a 9-1-1 phone is located next to the boy's locker room door facing the pool deck.
 * NO RUNNING on the pool deck or in restrooms.
 * NO HORSEPLAY or ROUGH-HOUSING.
@@ -34,25 +34,25 @@ Any child in a life jacket must be accompanied by an adult in the water, within 
 * Do not open skimmers.
 * Starting blocks may be used only in scheduled practices, competitions, and instruction when supervised by a coach or instructor.
 * Kickboards are for lap swimming, swim team, and swim lessons ONLY.
-* Jumps into the pool must be feet first and facing the pool.  NO SPINS, FLIPS, OR DIVES.
+* Jumps into the pool must be feet first and facing the pool.  NO SPINS, FLIPS, OR DIVES.
 * Inflatable beach balls or sponge balls are allowed during pool non-crowded conditions and at the manager's discretion.
 * No smoking inside the pool area.
 
 The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex, for any safety or maintenance reasons.
 
-Animals are not allowed in the pool area, with the exception of service dogs.  Service dogs are allowed on deck, but not in the water.
+Animals are not allowed in the pool area, with the exception of service dogs.  Service dogs are allowed on deck, but not in the water.
 
 Food and beverages are permitted on the pool deck, but are not allowed in the water.
 
 #### Prohibited acts/items
 * Playing, climbing, or jumping off of the metal ladders or hand rails.
 * Running, unnecessary noise, boisterous/roughplay
-* Shoulder-riding 
+* Shoulder-riding 
 * Animals of all kinds
 * Smoking
 * Food or drink in the water
 * Glass containers
-* Alcoholic beverages 
+* Alcoholic beverages 
 * Diving
 * Rafts or large flotation devices
 * Inappropriate swimming attire
@@ -75,7 +75,7 @@ Pool use is reserved for Klahanie Association members in good standing and their
 * If you have a communicable disease that can be transmitted by water or have been ill with diarrhea or vomiting in the last two weeks, do not use the pool.
 * Patrons with seizure, heart, or circulatory problems are advised to swim with a buddy.
 * Anyone under the influence of drugs or alcohol may not enter the pool facilities.
-* The wading pool is for children five years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
+* The wading pool is for children five years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
 
 We have changing areas available; however, we assume no responsibility for lost, damaged, or stolen property.
 

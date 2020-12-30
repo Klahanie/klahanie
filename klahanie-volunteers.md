@@ -22,7 +22,7 @@ categories: [association]
 	</div>
 </div>
 <div class="row event-row m-0 p-4 mt-4">
-<p>Klahanie is a great place to live because of all the fun community events your HOA assessments help fund.  Events are growing every year, and we want to do more of them!  However, we cannot sustain and grow these events without volunteers. </p>
+<p>Klahanie is a great place to live because of all the fun community events your HOA assessments help fund.  Events are growing every year, and we want to do more of them!  However, we cannot sustain and grow these events without volunteers. </p>
 
 <p>For more information, contact <a href="mailto:events@klahanie.com">Events</a></p>
 </div>

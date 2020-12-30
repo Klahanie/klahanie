@@ -28,10 +28,10 @@ show-title: true
 
 ### Private &amp; Semiprivate lessons. 
 
-Private and semiprivate lessons are offered year-round, based on Instructor availability. Please first contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to begin the private/semi private lesson set up process. After sending an email, you will be set up with a unique registration link and will be connected with an instructor to schedule the lessons. Please do not try to register for private/semi-private lessons on your own.
+Private and semiprivate lessons are offered year-round, based on Instructor availability. Please first contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to begin the private/semi private lesson set up process. After sending an email, you will be set up with a unique registration link and will be connected with an instructor to schedule the lessons. Please do not try to register for private/semi-private lessons on your own.
 
 <img src="{{site.url}}/images/swim-1.jpg" class="float-right" style="max-width:200px;" alt="Family in Klahanie pools" >
-If you need to cancel a lesson, make sure to cancel your private lesson at least 24 hours in advance. Otherwise, we cannot reschedule the lesson.
+If you need to cancel a lesson, make sure to cancel your private lesson at least 24 hours in advance. Otherwise, we cannot reschedule the lesson.
 
 ### Summer group lessons
 
