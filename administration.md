@@ -10,7 +10,7 @@ The main way most Klahanie residents interact with the administration staff is d
 
 ### Assessments
 Currently the annual assessments are $800 a year and most residents elect to pay them quarterly. 
-* [Learn more about how to pay your assessments]({{site.url}}/files/9429173877klahanie-_association_ways_to_pay_your_association_assessments_2018.pdf). 
+* [Learn more about how to pay your assessments]({{site.url}}/files/klahanie_association_ways_to_pay_your_association_assessments_2021.pdf). 
 * If you would like to set up a direct debit payment, send in the [ACH Authorization Form]({{site.url}}/files/ach_authorization_form.pdf).
 * [Learn more about the payment and collection policy]({{site.url}}/files/assessment_payment_and_collection_policy.pdf)
 
