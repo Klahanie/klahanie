@@ -10,7 +10,7 @@ show-title: true
 
 <div class="alert alert-info">
 
-<b>Note:</b> Mountainview Pool is closed for the season. Please visit Lakeside instead! 
+<b>Note:</b> Klahanie pools are open following the COVID Guidelines at this time. 
 
 </div>
 
