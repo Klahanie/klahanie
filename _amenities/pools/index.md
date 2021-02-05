@@ -21,11 +21,11 @@ show-title: true
 
 The Klahanie Association operates two 25-meter Pools with four lanes. Lakeside Pool is open year-round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you'll find detailed information below.
 
-Every Klahanie resident is permitted to enjoy the Klahanie pools and to participate in the aquatics programs. Since the pools are a privilege for Klahanie residents only, please register yourself at the HOA office prior to your first visit to the Pool. HOA office hours are Monday - Thursday 8:30 a.m. - 5:00 p.m. and Friday 9 a.m. - 4 p.m.
+Every Klahanie resident can enjoy the Klahanie pools and participate in the aquatics programs. Since the pools are a privilege for Klahanie residents only, please register at the Klahanie Association (KHOA) office prior to your first visit. KHOA office hours are Monday-Thursday 8:30 a.m.-5:00 p.m. and Friday 9 a.m.-4 p.m.
 
 In order to enter the pool, please have your ID ready and show it at check-in.
 
 ### Contact 
 - [Email](mailto:swimlessons@klahanie.com)
 - Mountainview Pool [(425) 557-7856](tel:425-557-7856)
-- Lakeside Pool: [(425)391-8503](tel:425-391-8503)
+- Lakeside Pool [(425) 391-8503](tel:425-391-8503)
