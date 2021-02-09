@@ -14,6 +14,7 @@ show-title: true
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
 * [Swim lessons]({{site.url}}/amenities/pools/swim-lessons.html)
 * [COVID guidelines]({{site.url}}/amenities/pools/covid-guidelines.html)
+* [Lifeguard Employment Application]({{site.url}}/amenities/pools/Aquatics-Lifeguard-Employment-Application-2021.html)
 
 ## Security
 * [Klahanie Neighborhood Patrol]({{site.url}}/amenities/klahanie-neighborhood-patrol.html)
