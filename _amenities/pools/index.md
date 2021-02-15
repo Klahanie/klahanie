@@ -20,7 +20,8 @@ The Klahanie Association operates two 25-meter pools with four lanes. Lakeside P
 * [Swim Lessons]({{site.url}}/amenities/pools/swim-lessons.html)
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
 
-Klahanie residents can enjoy the Klahanie pools and participate in the aquatics programs. To use the pools, create a KHOA [TeamUnify](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa) account and then register for individual sessions, classes, and clinics. Registration for swim sessions opens at 8:00 a.m. the day before. Registraion is required for all those who wish to enter the pools. Please bring identification, and be sure to view our <a href="covid-guidelines.html">COVID Guidelines</a>.
+Klahanie residents can enjoy the Klahanie pools and participate in the aquatics programs. To use the pools, create a KHOA [TeamUnify](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa) account and then register for individual sessions, classes, and clinics. Registration for swim sessions opens at 8:00 a.m. the day before. Registration is required for all those who wish to enter the pools. Please bring identification, and be sure to view our [COVID Guidelines]({{site.url}}/amenities/pools/covid-guidelines.html).
+
 
 
 ### Contact 
