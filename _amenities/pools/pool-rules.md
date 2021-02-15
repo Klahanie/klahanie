@@ -7,78 +7,45 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-The rules and requests made by lifesaving personnel must always be followed.
+The lifesaving personnel are in complete charge of the pool area. The rules and requests made by lifesaving personnel must always be followed. They have the authority to ask anyone to leave the pool if that person disobeys the safety or general pool rules, or if his/her conduct is detrimental to the common pleasure of other patrons enjoying the pool. The lifesaving personnel reserve the right to close the pool complex, or any portions of the pool complex, for any safety or maintenance reasons.
 
-The lifesaving personnel are in complete charge of the pool area and have the authority to ask anyone to leave the pool if that person disobeys the safety or general pool rules, or if his/her conduct is detrimental to the common pleasure of other patrons enjoying the pool.
+All accidents should be reported to the lifesaving personnel immediately. A first aid kit is available in the guard office. In case of emergency, a 9-1-1 phone is located next to the boy’s locker room door facing the pool deck.
 
-Admission to the pool may be denied for any of the following reasons:
+## KLAHANIE POOL USE 
+Unless otherwise scheduled, pool use is reserved for Klahanie Association members in good standing and their guests only. Each Klahanie household may sponsor a maximum of five guests on any given day. Residents must sign guests in and all guests over the age of five years old will be required to pay a guest fee. All guests must be accompanied by their Klahanie sponsor while at the pool. Guests privileges may be limited at any time by management.
 
-* If you appear to be under the influence of alcohol and/or drugs
-* If you have open sores, wounds, skin infections, and/or nasal or ear discharge
-* Any condition or evidence, which in the opinion of the manager will jeopardize the health and safety of the membership
+Certified service dogs, which are trained to do work or perform tasks for the benefit of a qualified individual with a disability, are allowed on deck but not in the water. No other animals are allowed in the pool area.
 
-Children under 5 years old or non-swimmers must be supervised by a responsible person, who is in the water and remains within arms reach of the child at all times.
+Food and non-alcoholic beverages, in plastic containers, are permitted on the pool deck but are not allowed in the water. Glass, alcoholic beverages, smoking, and vaping are not allowed in the pool area.
 
-No person unable to swim across the pool may use the pool unattended.  Any adult or child may have to demonstrate his/her swimming ability before entering deep water.
+You should not use the pool if you have open wounds, a communicable disease that can be transmitted by water, or have been ill with diarrhea or vomiting in the last two weeks.
 
-Any child in a life jacket must be accompanied by an adult in the water, within arms reach.  No one in a life jacket will be allowed in the deep end or to use the slide. LIFE JACKETS MUST BE U.S. COAST GUARD APPROVED.  There is a stamp on the inside of the life jacket to show that it is CG Approved.
+It is recommended that you swim with a buddy if you have a heart condition, a history of seizures, or a history of circulatory problems.
 
-* Infants/children not toilet trained must wear swim diapers under swim suits in order to prevent contamination.
-* Children must have their diapers changed on changing tables in the locker rooms.
-* Everyone must take a cleansing shower before using the pool.
-* All accidents should be reported to the lifesaving personnel immediately.  A first aid kit is available in the guard office.
-* In case of emergency, a 9-1-1 phone is located next to the boy's locker room door facing the pool deck.
-* NO RUNNING on the pool deck or in restrooms.
+Anyone under the influence of drugs or alcohol is not allowed to enter the pool facilities.
+
+## POOL RULES
+* Showers are required before entering the pool.
+* Appropriate swimming attire is required.
+* Changing on the deck is not permitted.
+* NO RUNNING on the pool deck or in locker rooms.
 * NO HORSEPLAY or ROUGH-HOUSING.
-* Do not hang on the lane lines or the rope.
-* Do not open skimmers.
+* Jumps into the pool must be feet first and facing the pool. NO SPINS, FLIPS, OR DIVES.
 * Starting blocks may be used only in scheduled practices, competitions, and instruction when supervised by a coach or instructor.
-* Kickboards are for lap swimming, swim team, and swim lessons ONLY.
-* Jumps into the pool must be feet first and facing the pool.  NO SPINS, FLIPS, OR DIVES.
-* Inflatable beach balls or sponge balls are allowed during pool non-crowded conditions and at the manager's discretion.
-* No smoking inside the pool area.
+* Kickboards, fins, and snorkels are for lap swimming, swim team, and swim lessons ONLY.
+* Water guns are permitted if the use does not infringe on the enjoyment of others using the pool.
+* No Inflatables – Beach balls are permitted if the use does not infringe on the enjoyment of others using the pool.
+* No hard balls (Tennis Balls, Footballs, Baseballs, etc.) Sponge balls are permitted if the use does not infringe on the enjoyment of others using the pool.
+* Mermaid tails are not allowed due to safety concerns.
 
-The Aquatics Manager or Lead Lifeguard may close the pool complex, or any portions of the pool complex, for any safety or maintenance reasons.
+## YOUNGER PATROL POOL USE
+* Infants/children not toilet trained must wear swim diapers. Disposable diapers are not allowed in the pool.
+* Changing tables are available in the locker rooms. Changing diapers in any other location is not allowed.
+* The wading pool is for children under six. All children using the wading pool must be supervised by a parent or guardian.
+* Children under six using the lap pool must be supervised by a responsible person who is in the water and always remains within arms-reach of the child. 
+* No person under 42 inches tall who cannot swim 10 yards independently is allowed in the lap pool unattended. Any adult or child may be asked to demonstrate his/her swimming ability before entering deep water.
+* U.S. Coast Guard Life Jackets are allowed. Any child in a life jacket must be accompanied by an adult in the water, within arms-reach. No one in a life jacket will be allowed in the deep end of the pool.
 
-Animals are not allowed in the pool area, with the exception of service dogs.  Service dogs are allowed on deck, but not in the water.
-
-Food and beverages are permitted on the pool deck, but are not allowed in the water.
-
-#### Prohibited acts/items
-* Playing, climbing, or jumping off of the metal ladders or hand rails.
-* Running, unnecessary noise, boisterous/roughplay
-* Shoulder-riding 
-* Animals of all kinds
-* Smoking
-* Food or drink in the water
-* Glass containers
-* Alcoholic beverages 
-* Diving
-* Rafts or large flotation devices
-* Inappropriate swimming attire
-* Disposable diapers
-* Water guns
-* Hard balls (such as tennis balls, footballs,etc.)
-* Flotation devices (inner tubes, inflatablerafts, noodles, etc.)
-* Kickboards or buoys during open swim times
-
-
-#### General Pool Rules
-Pool use is reserved for Klahanie Association members in good standing and their guests only, unless otherwise scheduled.
-
-* All children 12 years old and under must be supervised and accompanied by a parent or guardian.
-* Patrons ages 13 - 17 years old must not use the pool alone and must be accompanied by a buddy.
-* Each Klahanie household may sponsor a maximum of five guests on any given day and meet the requirements of item above.
-* Guests privileges may be limited at any time by management.
-* Residents must sign guests in and all guests over the age of five years old will be required to pay a $3 guest fee.
-* All guests must be accompanied by their Klahanie sponsor at all times while at the pool.
-* If you have a communicable disease that can be transmitted by water or have been ill with diarrhea or vomiting in the last two weeks, do not use the pool.
-* Patrons with seizure, heart, or circulatory problems are advised to swim with a buddy.
-* Anyone under the influence of drugs or alcohol may not enter the pool facilities.
-* The wading pool is for children five years old and younger.  All children using the wading pool must be supervised by a parent or guardian.
-
-We have changing areas available; however, we assume no responsibility for lost, damaged, or stolen property.
-
-#### Pool Occupancy 
+#### Pool Occupancy (non-covid)
 * Lakeside Pool- 140 people 
 * Mountainview Pool- 197 people
