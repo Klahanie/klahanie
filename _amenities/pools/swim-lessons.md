@@ -9,11 +9,7 @@ show-title: true
 ---
 
 <div class="alert alert-warning">
-  
- Klahanie pools are open, and swim lessons are available. For the safety of our residents and staff, we follow CDC guidelines for the prevention of COVID-19. 
- 
-<strong>Quick Links</strong> 
-  
+<strong>NOTE:</strong> Klahanie pools are open, and swim lessons are available. For the safety of our residents and staff, we follow CDC guidelines for the prevention of COVID-19.   
 </div>
 
 <div class="card float-right ml-4 mb-4">
