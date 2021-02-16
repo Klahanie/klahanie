@@ -13,10 +13,13 @@ show-title: true
 </div>
 
 <div class="card float-right ml-4 mb-4">
-  
+  <div class="card-header">
+    Quick links
+  </div>
   <ul class="list-group list-group-flush">
     <li class="list-group-item"><a href="https://www.teamunify.com/cmkhoaa">TeamUnify</a></li>
-    <li class="list-group-item"><a href="{{site.url}}/files/cancellation-policy.pdf">Cancellation Policy</a></li>
+    <li class="list-group-item"><a href="{{site.url}}/files/liability-waiver.pdf">Liability Waiver</a></li>
+    <li class="list-group-item"><a href="{{site.url}}/files/cancellation-policy.pdf">Cancellation policy</a></li>
     <li class="list-group-item"><a href="mailto:swimlessons@klahanie.com">Swim Lesson Coordinator</a></li>
   </ul>
 </div>
