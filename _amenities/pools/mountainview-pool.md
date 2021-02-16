@@ -8,10 +8,9 @@ categories: [pool]
 show-title: true
 ---
 
+
 <div class="alert alert-info">
-
-<b>Note:</b> Mountainview Pool is open for the season. 
-
+  <b>Note:</b> Klahanie pools are open following the <a href="covid-guidelines.html">COVID Guidelines</a> at this time. 
 </div>
 
 ### Location
