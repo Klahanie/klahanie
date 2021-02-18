@@ -15,7 +15,7 @@ Cast your vote in Klahanie's Board of Directors elections. Use <b>one</b> of the
 <li>Fill out a paper ballot or proxy, or vote online, at the Klahanie Association Office. Make sure to bring your identification to verify your address and identity when you come in.</li>
 </ol>
 
-For more information, login into your [Klahanie account](https://klahanieassociation.frontsteps.com/users/sign_up) to access the 2021 Letter to the Community that has details about the Board of Directors candidates, 2021 annual meeting agenda, 2020 annual meeting minutes, and a website redisgn survey.  
+For more information, login into your [Klahanie account] (https://klahanieassociation.frontsteps.com/users/sign_up) to access the 2021 Letter to the Community that has details about the Board of Directors candidates, 2021 annual meeting agenda, 2020 annual meeting minutes, and a website redisgn survey.  
 
 The last day to cast your vote is Monday, March 8, 2021. Paper ballots must be delivered to the Klahanie Association Office by 5:00 p.m. Online voting ends at 12:00 a.m.
 
