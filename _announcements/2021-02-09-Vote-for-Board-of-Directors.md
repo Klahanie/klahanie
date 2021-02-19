@@ -8,12 +8,12 @@ categories: [announcements]
 show-title: true
 ---
 ## Voting is Live!
-Cast your vote in Klahanie's Board of Directors elections. Use <b>one</b> of the three methods below.
-<ol>
-<li>Follow the instructions in the email invitation from Vote HOA Now.</li>
-<li>Go to our [Community Voting Site](https://klahanie.ivotehoa.com/register) to enter your personal registration code that you received via email. You can also request another registration code on this site.</li> 
-<li>Fill out a paper ballot or proxy, or vote online, at the Klahanie Association Office. Make sure to bring your identification to verify your address and identity when you come in.</li>
-</ol>
+Cast your vote in Klahanie's Board of Directors elections. Use **one** of the three methods below.
+
+1. Follow the instructions in the email invitation from Vote HOA Now.
+2. Go to our [Community Voting Site](https://klahanie.ivotehoa.com/register) to enter your personal registration code that you received via email. You can also request another registration code on this site.
+3. Fill out a paper ballot or proxy, or vote online, at the Klahanie Association Office. Make sure to bring your identification to verify your address and identity when you come in.
+
 
 For more information, login into your [Klahanie account](https://klahanieassociation.frontsteps.com/users/sign_up) to access the 2021 Letter to the Community that has details about the Board of Directors candidates, 2021 annual meeting agenda, 2020 annual meeting minutes, and a website redesign survey.  
 
