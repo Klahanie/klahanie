@@ -23,5 +23,5 @@ show-title: true
 * <a href="{{site.url}}/files//374187213project_completion_form.pdf">Architectual Control Project Completion Form</a>
 * <a href="{{site.url}}/files/9429141840klahanie-association_volunteering_2018-ver.pdf">Committee Volunteer Form</a>
 * <a href="{{site.url}}/files/assessment_payment_and_collection_policy.pdf">Payment and Collection policy</a>
-* <a href="{{site.url}}/files/9429173877klahanie-_association_ways_to_pay_your_association_assessments_2018.pdf">Ways to pay your assessments</a>
+* <a href="{{site.url}}/files/klahanie_association_ways_to_pay_your_association_assessments_2021.pdf">Ways to pay your assessments</a>
 * <a href="{{site.url}}/files/Vacation-House-Check-2018.pdf">Vacation House Check form</a>
