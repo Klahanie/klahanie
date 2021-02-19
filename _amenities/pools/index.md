@@ -17,7 +17,7 @@ show-title: true
 * [Mountainview Pool Schedule]({{site.url}}/amenities/pools/mountainview-pool.html)
 * [Swim Lessons]({{site.url}}/amenities/pools/swim-lessons.html)
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
-* [Lifeguard Employment Application]({{site.url}}/files/Aquatics Lifeguard Employment Application 2020.pdf)
+* [Lifeguard Employment Application]({{site.url}}/files/Aquatics Lifeguard Employment Application 2021.pdf)
 
 
 The Klahanie Association operates two 25-meter Pools with four lanes. Lakeside Pool is open year-round. Mountainview Pool operates from Memorial Weekend until  Labor day. Whether you are looking for pool schedule, swim lessons, pool employment, pool rules and more, you'll find detailed information below.
