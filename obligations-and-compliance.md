@@ -48,6 +48,6 @@ All of these progressive steps are taken to protect the majority of the homeowne
 #### Learn More
 * [ACC Guidelines]({{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf)
 * [Rules and Regulations]({{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf)
-* [ACC Application]({{site.url}}/files/Architectural-Controls_application.pdf)
+* [ACC Application]({{site.url}}/files/374142017Architectural-Controls_application.pdf)
 * [ACC Completion Form]({{site.url}}/files/project_completion_form.pdf)
 * [Exterior House Painting Color Palette]({{site.url}}/files/exterior_paint_palette.pdf)
