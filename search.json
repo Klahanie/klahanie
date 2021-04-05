@@ -200,6 +200,15 @@
     
     
     {
+      "title"    : "Announcements - page 4",
+      "categories" : "",
+      "tags"     : "",
+      "url"      : "/announcements/page4/index.html",
+      "date"     : "2019-07-01 04:30"
+    },
+    
+    
+    {
       "title"    : "Klahanie Park Update",
       "categories" : "announcements",
       "tags"     : "",
@@ -277,6 +286,15 @@
       "tags"     : "",
       "url"      : "/announcements/2021-02-09-Vote-for-Board-of-Directors.html",
       "date"     : "2021-02-09 09:17:00 +0000"
+    },
+    
+    
+    {
+      "title"    : "Spring Cleaning Events",
+      "categories" : "announcements",
+      "tags"     : "",
+      "url"      : "/announcements/Spring-Cleaning-Events",
+      "date"     : "2021-04-05 09:18:00 +0000"
     },
     
     
