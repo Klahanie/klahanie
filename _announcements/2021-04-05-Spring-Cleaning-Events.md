@@ -10,8 +10,7 @@ show-title: true
 Klahanie Association will be hosting a shred and an electronic waste recycle event that is free and open to members of the community! These events will be located at Mountainview Pool: 4280 Klahanie Dr SE Sammamish, WA 98029.
 
 - Electronic Waste drop off: April 9, 2021 from 11a.m. to 3p.m. Items accepted include all TVs, computer monitors, PCs, towers, laptops, tablets, cell phones, ink cartridges, servers, network switches, UPS battery, microwaves, printers, stereo equipments, wire, cable, remotes, motherboards and small applicances.
-
--  Paper shredding:  April 10, 2021 from 9a.m. - 12p.m.
+-  Paper shredding:  April 10, 2021 from 9a.m. - 12p.m. Hard drives and paper fasteners such as paper clips and staples can be shredded. Three-ring binders cannot be accepted.
 -  The Annual Klahanie Garage sale will be from May 14-16, if interested in participating please register [here](https://klahanieassociation.frontsteps.com/custom_forms/1511/new_public_response) to be featured in the Klahanie Garage Sale Map.
 
 For all events, please follow the [CDC covid guidelines](https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/prevention.html) to keep your family and neighbors safe.
