@@ -7,8 +7,5 @@ comments: true
 categories: []
 thumbnail: /images/board/thom-beeks.jpg
 bio: '<br>Term Expires: 2022'
+position: Treasurer
 ---
-
-<h2><strong>Thomas Beeks</strong></h2>
-<h3></h3>
-Term Expires: 2022
