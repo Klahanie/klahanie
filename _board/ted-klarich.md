@@ -7,4 +7,5 @@ comments: true
 categories: []
 thumbnail: /images/board/ted-klarich.jpg
 bio: 'Term expires: 2023'
+position: Secretary
 ---
