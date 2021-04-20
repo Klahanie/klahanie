@@ -10,7 +10,4 @@ show-title: true
 ---
 
 
-Klahanie will be offering youth and adult tennis lessons throughout the summer for those who are looking for a great way to stay active, learn a new sport (or improve, if you're already a pro!), and have fun while enjoying the outdoors.
-
-* Youth Tennis Lessons will be provided by B &amp; K Tennis. For more information contact Brian Nash at (206) 250-7259
-* Adult Tennis Lessons are provided by Pine Lake Athletic Club. For more information contact [Tricia Diebner](mailto:triciad@columbiaathletic.com") 
+Klahanie will be offering youth tennis lessons throughout the summer for those who are looking for a great way to stay active, learn a new sport (or improve, if you're already a pro!), and have fun while enjoying the outdoors. There are only 12 sports per class, so book today! Register [HERE](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa)
