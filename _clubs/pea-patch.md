@@ -18,4 +18,4 @@ The active growing season is from April 1<sup>st</sup> through October 31<sup>st
 
 A full size plot is approximately 10’ x 20’ and rents for $50. A half plot is approximately 10’ x 10’ and rents for $25.
 
-If you would like more information on the Klahanie Pea Patch, contact [Lori](mailto:goerlitz@comcast.net) and she will email you the information needed to sign up for a plot.
+If you would like more information on the Klahanie Pea Patch, contact  Marjorie at marjoriejames@live.com and she will email you the information needed to sign up for a plot.
