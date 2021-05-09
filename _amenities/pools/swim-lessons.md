@@ -27,7 +27,7 @@ show-title: true
 
 ### Private &amp; Semiprivate lessons. 
 
-Private and semiprivate lessons are offered year-round, based on instructor availability. The instructor availability and class times are on our [Team Unify Page] (https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa).
+Private and semiprivate lessons are offered year-round, based on instructor availability. The instructor availability and class times are on our [Team Unify Page](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa).
 Contact the [Swim Lesson Coordinator](mailto:swimlessons@klahanie.com) to start the registration process. After contacting the Swim Lesson Coordinator, you will receive a unique registration link and will be connected with an instructor to schedule lessons. Please do not try to register for private/semiprivate lessons on your own.
 
 <img src="{{site.url}}/images/swim-1.jpg" class="float-right" style="max-width:200px;" alt="Family in Klahanie pools" >
