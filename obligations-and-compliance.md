@@ -46,6 +46,8 @@ If you ignore this first notice, or you don’t send in the photo showing that t
 All of these progressive steps are taken to protect the majority of the homeowners from the few who need additional encouragement to live up to their obligations to maintain their homes and yards. Don’t be one of those people!
 
 #### Learn More
+* [ACC Guidelines]({{site.url}}/files/Klahanie-Association-Architectural-Controls-2018.pdf)
+* [Rules and Regulations]({{site.url}}/files/Klahanie-Association-Rules-and-Regulations-2018.pdf)
+* [ACC Application]({{site.url}}/files/374142017Architectural-Controls_application.pdf)
+* [ACC Completion Form]({{site.url}}/files/374187213project_completion_form.pdf)
 * [Exterior House Painting Color Palette]({{site.url}}/files/exterior_paint_palette.pdf)
-* [Fence Design Specifications]({{site.url}}/files/Fence-Design-and-Specifications.pdf)
-* [Roof Replacement Rules]({{site.url}}/files/roof-replacement.pdf)
