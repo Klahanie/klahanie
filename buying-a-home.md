@@ -52,5 +52,5 @@ For Sub-associations, there are 2 separate Assessments that must be paid. Sub-as
 #### Mortgage Professionals
 
 ##### Certificate of Insurance or Evidence of Coverage
-Please send all requests to Nicholson and Associates, LLC.  Email: <a href="mailto:mail@nichinsure.com">mail@nichinsure.com</a> or FAX: 360-943-9712. Please allow 24 hours to receive the requested Certificate. Nicholson &amp; Associates cover the Association's common areas.  Should you be requesting insurance for a condo or town home, you will need to contact the sub-association's managing agent.
+Please send all requests to The Partners Group by calling 425-691-2620 or FAX: 360-943-9712. Please allow 24 hours to receive the requested Certificate. Should you be requesting insurance for a condo or town home, you will need to contact the sub-association's managing agent.
 
