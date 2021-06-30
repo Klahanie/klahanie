@@ -8,8 +8,7 @@ categories: [pool]
 show-title: true
 ---
 <div class="alert alert-info">
-  As of July 1, Klahanie pools are open with limited service due to COVID-19. <a href="{{site.url}}/amenities/pools/covid-guidelines.html">Learn more</a>
-</div>
+  As of June 30, 2021 Klahanie pools are open with no reservations needed.
 
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail" alt="Child at Klahanie pools doing a cannonball">
 
@@ -21,8 +20,7 @@ The Klahanie Association operates two 25-meter pools with four lanes. Lakeside P
 * [Pool rules]({{site.url}}/amenities/pools/pool-rules.html)
 * [Lifeguard Employment Application]({{site.url}}/files/Aquatics Lifeguard Employment Application 2021.pdf)
 
-Klahanie residents can enjoy the Klahanie pools and participate in the aquatics programs. To use the pools, create a KHOA [TeamUnify](https://www.teamunify.com/SwimLessons.jsp?_tabid_=182023&team=cmkhoaa) account and then register for individual sessions, classes, and clinics. Registration for swim sessions opens at 8:00 a.m. the day before. Registration is required for all those who wish to enter the pools. Please bring identification, and be sure to view our [COVID Guidelines]({{site.url}}/amenities/pools/covid-guidelines.html).
-
+Klahanie residents can enjoy the Klahanie pools and participate in the aquatics programs. To use the pools, bring your Identification to show that you are a Klahanie resident.
 
 
 ### Contact 
