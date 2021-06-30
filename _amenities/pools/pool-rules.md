@@ -38,7 +38,7 @@ Anyone under the influence of drugs or alcohol is not allowed to enter the pool 
 * No hard balls (Tennis Balls, Footballs, Baseballs, etc.) Sponge balls are permitted if the use does not infringe on the enjoyment of others using the pool.
 * Mermaid tails are not allowed due to safety concerns.
 
-## YOUNGER PATROL POOL USE
+## YOUNGER PATRON POOL USE
 * Infants/children not toilet trained must wear swim diapers. Disposable diapers are not allowed in the pool.
 * Changing tables are available in the locker rooms. Changing diapers in any other location is not allowed.
 * The wading pool is for children under six. All children using the wading pool must be supervised by a parent or guardian.
@@ -47,5 +47,5 @@ Anyone under the influence of drugs or alcohol is not allowed to enter the pool 
 * U.S. Coast Guard Life Jackets are allowed. Any child in a life jacket must be accompanied by an adult in the water, within arms-reach. No one in a life jacket will be allowed in the deep end of the pool.
 
 #### Pool Occupancy (non-covid)
-* Lakeside Pool- 140 people 
-* Mountainview Pool- 197 people
+* Lakeside Pool- (75 in the water) 140 people total.
+* Mountainview Pool- (75 in the water) 197 people total.
