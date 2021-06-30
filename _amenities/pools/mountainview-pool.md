@@ -9,7 +9,7 @@ show-title: true
 ---
 
 <div class="alert alert-info">
-  <b>Note:</b> Klahanie pools are open following the <a href="covid-guidelines.html">COVID Guidelines</a> at this time. 
+  <b>Note:</b> Klahanie pools are open and no reservations are needed. 
 </div>
 
 ### Location
