@@ -7,7 +7,7 @@ comments: true
 categories: [pool]
 show-title: true
 ---
-<div class="alert alert-info">
+
   As of June 30, 2021 Klahanie pools are open with no reservations needed.
 
 <img src="{{site.url}}/images/swimming1.jpg" class="float-right col-sm-4 img-thumbnail" alt="Child at Klahanie pools doing a cannonball">
@@ -25,5 +25,5 @@ Klahanie residents can enjoy the Klahanie pools and participate in the aquatics 
 
 ### Contact 
 - [Email](mailto:swimlessons@klahanie.com)
-- Mountainview Pool [(425) 557-7856](tel:425-557-7856)
-- Lakeside Pool [(425) 391-8503](tel:425-391-8503)
+- Mountainview Pool [(425) 557-7856](tel:425-557-7856).
+- Lakeside Pool [(425) 391-8503](tel:425-391-8503).
